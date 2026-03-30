@@ -1,0 +1,708 @@
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.yuh.com/fr/app/invest/stocks/","url":"https://www.yuh.com/fr/app/invest/stocks/","name":"Yuh, l'app de trading Suisse: trade des actions simplement","isPartOf":{"@id":"https://www.yuh.com/fr/#website"},"datePublished":"2023-02-27T08:26:22+00:00","dateModified":"2025-11-11T11:07:44+00:00","description":"Avec la bonne app de trading, investir dans des actions, c’est du gâteau! Tu peux même t’en offrir une part grâce au fractional trading proposé par Yuh.","breadcrumb":{"@id":"https://www.yuh.com/fr/app/invest/stocks/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.yuh.com/fr/app/invest/stocks/"]}]},{"@type":"BreadcrumbList","@id":"https://www.yuh.com/fr/app/invest/stocks/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.yuh.com/fr/"},{"@type":"ListItem","position":2,"name":"App","item":"https://www.yuh.com/fr/app/"},{"@type":"ListItem","position":3,"name":"Invest","item":"https://www.yuh.com/fr/app/invest/"},{"@type":"ListItem","position":4,"name":"Stocks"}]},{"@type":"WebSite","@id":"https://www.yuh.com/fr/#website","url":"https://www.yuh.com/fr/","name":"yuh.com - FR","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.yuh.com/fr/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"}]}</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Comment les produits d\u2019investissement disponibles sont-ils choisis?","acceptedAnswer":{"@type":"Answer","text":"<p>Nous voulons le meilleur pour toi. C\u2019est pourquoi notre s\u00e9lection de produits d\u2019investissement a \u00e9t\u00e9 choisie avec soin et couvre une vaste palette de secteurs d\u2019activit\u00e9 et de nombreuses r\u00e9gions g\u00e9ographiques pour que tu puisses te constituer un portefeuille diversifi\u00e9. Nous privil\u00e9gions les actions \u00e0 forte capitalisation boursi\u00e8re (blue chips) pour assurer la liquidit\u00e9 des actifs. Nous ne choisissons pas les actions en fonction des valeurs \u00e9thiques de leurs entreprises respectives, mais nous te fournissons les notations environnementales, sociales et de gouvernance d\u2019entreprise (crit\u00e8res ESG). Histoire que tu aies toutes les cartes en main pour investir selon tes valeurs.<\/p>\n"}},{"@type":"Question","name":"Quels frais s\u2019appliquent \u00e0 l\u2019investissement?","acceptedAnswer":{"@type":"Answer","text":"<p>\u00c9coute bien, il y aura peut-\u00eatre un quiz plus tard! Lorsque tu ach\u00e8tes ou vends un produit, des frais de transaction de 0.5% sont appliqu\u00e9s \u00e0 l\u2019op\u00e9ration. Par exemple, si tu ach\u00e8tes 1000 CHF de produits d\u2019investissement, tu paieras 5 CHF de frais. Les frais minimaux sont de 1 CHF. Mais comme nous t\u2019aimons beaucoup, nous ne facturons pas de frais de garde pour conserver tes investissements. Les produits d\u2019investissement sp\u00e9cifiques, tels que les th\u00e8mes tendance ou les ETF, peuvent \u00eatre soumis \u00e0 des frais de gestion suppl\u00e9mentaires. Les crypto-monnaies sont trait\u00e9es diff\u00e9remment. Des frais de transaction de 1% sont appliqu\u00e9s \u00e0 l\u2019achat et 1% \u00e0 la vente, mais tu peux les d\u00e9poser en toute s\u00e9curit\u00e9 sur ton compte Yuh sans frais de garde.<\/p>\n"}},{"@type":"Question","name":"Quand mon ordre d\u2019investissement sera-t-il ex\u00e9cut\u00e9?","acceptedAnswer":{"@type":"Answer","text":"<p>Tous les ordres plac\u00e9s lorsque les march\u00e9s sont ouverts seront ex\u00e9cut\u00e9s imm\u00e9diatement. Les ordres plac\u00e9s en dehors des heures d\u2019ouverture (la nuit, les week-ends et les jours f\u00e9ri\u00e9s) seront ex\u00e9cut\u00e9s le jour ouvr\u00e9 suivant. L\u2019argent ne dort jamais, mais il a parfois besoin d\u2019une pause \u00e9nergisante!<\/p>\n<p>Par cons\u00e9quent, tu pourras passer tes ordres \u00e0 tout moment et ils seront ex\u00e9cut\u00e9s comme suit:<\/p>\n<p>March\u00e9s suisses: les jours de trading de 9:10 \u00e0 17:20 CET<br \/>\nMarch\u00e9s europ\u00e9ens: les jours de trading de 9:10 \u00e0 17:20 CET<br \/>\nMarch\u00e9s britanniques: les jours de trading de 9:10 \u00e0 17:20 CET<br \/>\nMarch\u00e9s am\u00e9ricains: les jours de trading de 15:40 \u00e0 21:50 CET<br \/>\nTh\u00e8mes: les jours de trading de 9:25 \u00e0 17:05 CET<\/p>\n"}},{"@type":"Question","name":"\u00c0 quel cours mon ordre d\u2019investissement est-il ex\u00e9cut\u00e9?","acceptedAnswer":{"@type":"Answer","text":"<p>Le cours des produits d\u2019investissement ne cesse de fluctuer comme un yo-yo lorsque les march\u00e9s sont ouverts. Gr\u00e2ce au trading en temps r\u00e9el, tu paies le cours du march\u00e9 au moment de l\u2019ex\u00e9cution de ton ordre.<\/p>\n<p>Si tu places ton ordre lorsque les march\u00e9s sont ferm\u00e9s, le cours au moment de leur r\u00e9ouverture est susceptible d\u2019\u00eatre diff\u00e9rent de celui qui \u00e9tait affich\u00e9 lorsque tu as plac\u00e9 ton ordre. Tu peux donc avoir une bonne ou une mauvaise surprise\u2026 Mais si tu n&#8217;aimes pas les surprises, essaie de placer tes ordres lorsque les march\u00e9s sont ouverts!<\/p>\n"}},{"@type":"Question","name":"Comment sont g\u00e9r\u00e9es les corporate actions?","acceptedAnswer":{"@type":"Answer","text":"<p>Les corporate actions sont appliqu\u00e9es \u00e0 ton compte automatiquement. Par exemple, les dividendes sont cr\u00e9dit\u00e9s sur ton compte principal. Pour les autres op\u00e9rations sur titres, la solution standard sera appliqu\u00e9e, mais dans la mesure du possible, nous essaierons de faire le meilleur choix pour toi, en privil\u00e9giant l\u2019option qui ne fera pas baisser le solde de ton compte.<\/p>\n"}},{"@type":"Question","name":"Puis-je transf\u00e9rer mes titres de PostFinance ou de Swissquote vers mon compte Yuh?","acceptedAnswer":{"@type":"Answer","text":"<p>Non, pour l\u2019instant, il n\u2019est pas possible de transf\u00e9rer des titres en provenance d\u2019autres \u00e9tablissements financiers vers Yuh, ni d\u2019y associer ton compte Swissquote ou PostFinance. En revanche, si tu es d\u00e9j\u00e0 client-e chez PostFinance ou Swissquote, tu b\u00e9n\u00e9ficies d\u2019un processus simplifi\u00e9 de cr\u00e9ation de compte Yuh.<\/p>\n"}},{"@type":"Question","name":"Comment sont prot\u00e9g\u00e9s les investisseurs comme moi?","acceptedAnswer":{"@type":"Answer","text":"<p>Tu peux te d\u00e9tendre: en Suisse les investisseurs appartiennent \u00e0 une esp\u00e8ce juridiquement prot\u00e9g\u00e9e. La loi f\u00e9d\u00e9rale sur les services financiers (LSFin), entr\u00e9e en vigueur le 1er janvier 2020, renforce ta protection en tant qu\u2019investisseur. La LSFin distingue les segments de client\u00e8le \u00ab client priv\u00e9 \u00bb, \u00ab client professionnel \u00bb et \u00ab client institutionnel \u00bb, chacun d\u2019entre eux \u00e9tant associ\u00e9 \u00e0 un niveau diff\u00e9rent de protection des investisseurs. En tant que Yuhser, tu appartiens \u00e0 la cat\u00e9gorie \u00ab client priv\u00e9 \u00bb: tu b\u00e9n\u00e9ficies donc du plus haut niveau de protection des investisseurs.<\/p>\n"}},{"@type":"Question","name":"Qu\u2019advient-il de mes actions ou fractions d\u2019actions en cas de faillite?","acceptedAnswer":{"@type":"Answer","text":"<p>Les titres et fractions de titres (aussi connues comme \u00abfractions d\u2019actions\u00bb) sont d\u00e9tenus aupr\u00e8s de notre banque d\u00e9positaire (et soci\u00e9t\u00e9 m\u00e8re) Swissquote. En tant que Yuhser, tu d\u00e9tiens un droit fiduciaire sur ces titres. <strong>En d\u2019autres termes, ils sont aussi s\u00fbrs que n\u2019importe quel autre titre d\u00e9tenu aupr\u00e8s d\u2019une banque suisse r\u00e9glement\u00e9e par la FINMA.<\/strong><\/p>\n<p>En cas de faillite, les Yuhsers conservent leurs droits sur leurs titres, y compris les fractions. Conform\u00e9ment \u00e0 l\u2019article\u00a0<em>37d LB<\/em>, ces actions sont distraites de la masse en faillite et peuvent par cons\u00e9quent \u00eatre consid\u00e9r\u00e9es comme des actifs sp\u00e9ciaux.<strong> Cela signifie qu\u2019elles survivront en dehors de l\u2019institution bancaire. <\/strong><\/p>\n<p>En outre, conform\u00e9ment \u00e0 la loi en vigueur, le liquidateur est tenu de transf\u00e9rer les instruments financiers correspondants \u00e0 un d\u00e9positaire tiers, c\u2019est-\u00e0-dire une autre banque ou un autre courtier en valeurs, qui continuera \u00e0 d\u00e9tenir ces actions en fiducie pour le client. Un transfert de titres peut uniquement \u00eatre demand\u00e9 s\u2019il porte sur les titres dans leur int\u00e9gralit\u00e9. Dans le cas des fractions de titres, elles doivent \u00eatre transf\u00e9r\u00e9es ou vendues \u00e0 un d\u00e9positaire tiers. Le transfert de titres \u00e0 un nouveau d\u00e9positaire est r\u00e9glement\u00e9 par l\u2019article\u00a017 de la Loi f\u00e9d\u00e9rale sur les titres interm\u00e9di\u00e9s (LTI).<\/p>\n"}}]}</script>		<style type="text/css" id="wp-custom-css">
+		<div class="banner banner--dark js-banner" data-component='{"component": "banner"}' data-settings='{"cookie":{"name":"","value":"","expires":""}}'>
+          "name": "Shares",
+    "name": "NYSE:MMM",
+    "displayName": "3M"
+    "name": "EURONEXT:ABI",
+    "displayName": "AB InBev"
+    "name": "SIX:ABBN",
+    "displayName": "ABB"
+    "name": "NASDAQ:AMD",
+    "displayName": "AMD"
+    "name": "EURONEXT:ASML",
+    "displayName": "ASML"
+    "name": "NYSE:T",
+    "displayName": "AT&T"
+    "name": "EURONEXT:CS",
+    "displayName": "AXA"
+    "name": "SIX:ACLN",
+    "displayName": "Accelleron"
+    "name": "NYSE:ACN",
+    "displayName": "Accenture"
+    "name": "EURONEXT:AC",
+    "displayName": "Accor"
+    "name": "SIX:ADEN",
+    "displayName": "Adecco"
+    "name": "XETR:ADS",
+    "displayName": "Adidas"
+    "name": "NASDAQ:ADBE",
+    "displayName": "Adobe"
+    "name": "NASDAQ:AFRM",
+    "displayName": "Affirm"
+    "name": "EURONEXT:AF FP",
+    "displayName": "Air France-KLM"
+    "name": "EURONEXT:AI",
+    "displayName": "Air Liquide"
+    "name": "NASDAQ:ABNB",
+    "displayName": "Airbnb"
+    "name": "EURONEXT:AIR",
+    "displayName": "Airbus"
+    "name": "SIX:ALC",
+    "displayName": "Alcon"
+    "name": "XETR:ALV",
+    "displayName": "Allianz"
+    "name": "NASDAQ:GOOG",
+    "displayName": "Alphabet (Google)"
+    "name": "EURONEXT:ALO",
+    "displayName": "Alstom"
+    "name": "NYSE:MO",
+    "displayName": "Altria"
+    "name": "NASDAQ:AMZN",
+    "displayName": "Amazon"
+    "name": "NYSE:AS",
+    "displayName": "Amer Sports"
+    "name": "NASDAQ:AAL",
+    "displayName": "American Airlines"
+    "name": "NYSE:AXP",
+    "displayName": "American Express"
+    "name": "NASDAQ:AMGN",
+    "displayName": "Amgen"
+    "name": "SIX:AMRZ",
+    "displayName": "Amrize"
+    "name": "SIX:AMS",
+    "displayName": "Ams-osram"
+    "name": "NASDAQ:APP",
+    "displayName": "AppLovin"
+    "name": "NASDAQ:AAPL",
+    "displayName": "Apple"
+    "name": "NASDAQ:AMAT",
+    "displayName": "Applied Materials"
+    "name": "NASDAQ:ARM",
+    "displayName": "Arm"
+    "name": "SIX:ARYN",
+    "displayName": "Aryzta"
+    "name": "LSE:AML",
+    "displayName": "Aston Martin"
+    "name": "LSE:AZN",
+    "displayName": "AstraZeneca"
+    "name": "NASDAQ:TEAM",
+    "displayName": "Atlassian"
+    "name": "NASDAQ:ADSK",
+    "displayName": "Autodesk"
+    "name": "SIX:AVOL",
+    "displayName": "Avolta"
+    "name": "XETR:BAS",
+    "displayName": "BASF"
+    "name": "SIX:BION",
+    "displayName": "BB Biotech"
+    "name": "LSE:BHP",
+    "displayName": "BHP"
+    "name": "SIX:BKW",
+    "displayName": "BKW Energie"
+    "name": "XETR:BMW",
+    "displayName": "BMW"
+    "name": "EURONEXT:BNP",
+    "displayName": "BNP Paribas"
+    "name": "SIX:BALN",
+    "displayName": "Baloise"
+    "name": "NYSE:BAC",
+    "displayName": "Bank Of America"
+    "name": "SIX:BCVN",
+    "displayName": "Banque Cantonale Vaudoise"
+    "name": "SIX:BCGE",
+    "displayName": "Banque Cantonale de Genève"
+    "name": "SIX:BSLN",
+    "displayName": "Basilea"
+    "name": "SIX:BSKP",
+    "displayName": "Basler Kantonalbank"
+    "name": "XETR:BAYN",
+    "displayName": "Bayer"
+    "name": "SIX:BELL",
+    "displayName": "Bell"
+    "name": "NYSE:BRK/B",
+    "displayName": "Berkshire Hathaway"
+    "name": "SIX:BEKN",
+    "displayName": "Berner Kantonalbank"
+    "name": "NASDAQ:BYND",
+    "displayName": "Beyond Meat "
+    "name": "NASDAQ:BNTX",
+    "displayName": "Biontech"
+    "name": "NYSE:BIRK",
+    "displayName": "Birkenstock "
+    "name": "NYSE:BLK",
+    "displayName": "Blackrock "
+    "name": "NYSE:SQ",
+    "displayName": "Block"
+    "name": "NYSE:BA",
+    "displayName": "Boeing"
+    "name": "NASDAQ:BKNG",
+    "displayName": "Booking"
+    "name": "XETR:BVB",
+    "displayName": "Borussia Dortmund"
+    "name": "SIX:BOSN",
+    "displayName": "Bossard"
+    "name": "LSE:BATS",
+    "displayName": "British American Tobacco"
+    "name": "LSE:BP.",
+    "displayName": "British Petroleum"
+    "name": "NASDAQ:AVGO",
+    "displayName": "Broadcom"
+    "name": "NASDAQ:BMBL",
+    "displayName": "Bumble"
+    "name": "LSE:BRBY",
+    "displayName": "Burberry"
+    "name": "NYSE:AI",
+    "displayName": "C3 AI"
+    "name": "NYSE:CB",
+    "displayName": "CHUBB "
+    "name": "SIX:CALN",
+    "displayName": "Calida"
+    "name": "NYSE:CCL",
+    "displayName": "Carnival"
+    "name": "NYSE:CAT",
+    "displayName": "Caterpillar "
+    "name": "NASDAQ:CELH",
+    "displayName": "Celsius Holdings"
+    "name": "SIX:CMBN",
+    "displayName": "Cembra"
+    "name": "NASDAQ:CHKP",
+    "displayName": "Check Point Software"
+    "name": "NYSE:CVX",
+    "displayName": "Chevron"
+    "name": "NASDAQ:CHYM",
+    "displayName": "Chime"
+    "name": "EURONEXT:CDI",
+    "displayName": "Christian Dior"
+    "name": "NYSE:CRCL",
+    "displayName": "Circle"
+    "name": "NASDAQ:CSCO",
+    "displayName": "Cisco"
+    "name": "NYSE:C",
+    "displayName": "Citigroup "
+    "name": "SIX:CLN",
+    "displayName": "Clariant"
+    "name": "NYSE:NET",
+    "displayName": "Cloudflare"
+    "name": "NYSE:KO",
+    "displayName": "Coca-Cola"
+    "name": "NASDAQ:COIN",
+    "displayName": "Coinbase"
+    "name": "NYSE:CL",
+    "displayName": "Colgate-Palmolive"
+    "name": "NASDAQ:CMCSA",
+    "displayName": "Comcast"
+    "name": "XETR:CBK",
+    "displayName": "Commerzbank"
+    "name": "NASDAQ:CRWV",
+    "displayName": "CoreWeave"
+    "name": "NASDAQ:COST",
+    "displayName": "Costco"
+    "name": "EURONEXT:ACA",
+    "displayName": "Credit Agricole"
+    "name": "NASDAQ:CRWD",
+    "displayName": "CrowdStrike"
+    "name": "XETR:5CV GR",
+    "displayName": "Curevac"
+    "name": "EURONEXT:BN",
+    "displayName": "Danone"
+    "name": "NASDAQ:DDOG",
+    "displayName": "Datadog"
+    "name": "NYSE:DELL",
+    "displayName": "Dell"
+    "name": "NYSE:DAL",
+    "displayName": "Delta Air Lines"
+    "name": "XETR:DBK",
+    "displayName": "Deutsche Bank"
+    "name": "XETR:DPW",
+    "displayName": "Deutsche Post"
+    "name": "XETR:DTE",
+    "displayName": "Deutsche Telekom"
+    "name": "LSE:DGE",
+    "displayName": "Diageo"
+    "name": "NYSE:DKS",
+    "displayName": "Dick's sporting goods"
+    "name": "SIX:DOCM",
+    "displayName": "DocMorris"
+    "name": "NASDAQ:DPZ",
+    "displayName": "Dominos Pizza"
+    "name": "NASDAQ:DASH",
+    "displayName": "DoorDash"
+    "name": "SIX:DOKA",
+    "displayName": "Dormakaba"
+    "name": "NASDAQ:DKNG",
+    "displayName": "DraftKings"
+    "name": "XETR:EOAN",
+    "displayName": "E.ON"
+    "name": "SIX:EMSN",
+    "displayName": "EMS-Chemie"
+    "name": "LSE:EZJ",
+    "displayName": "Easyjet"
+    "name": "NYSE:ETN",
+    "displayName": "Eaton"
+    "name": "NASDAQ:EBAY",
+    "displayName": "Ebay "
+    "name": "NASDAQ:EA",
+    "displayName": "Electronic Arts "
+    "name": "NYSE:LLY",
+    "displayName": "Eli Lilly"
+    "name": "SIX:EMMN",
+    "displayName": "Emmi"
+    "name": "MIL:ENEL",
+    "displayName": "Enel"
+    "name": "EURONEXT:ENGI",
+    "displayName": "Engie"
+    "name": "MIL:ENI",
+    "displayName": "Eni"
+    "name": "NASDAQ:ENPH",
+    "displayName": "Enphase Energy "
+    "name": "EURONEXT:EL",
+    "displayName": "EssilorLuxottica"
+    "name": "NYSE:EL",
+    "displayName": "Estee Lauder"
+    "name": "NYSE:ETSY",
+    "displayName": "Etsy"
+    "name": "NASDAQ:EXPE",
+    "displayName": "Expedia"
+    "name": "NYSE:XOM",
+    "displayName": "Exxon Mobil"
+    "name": "NYSE:FDX",
+    "displayName": "Fedex"
+    "name": "MIL:RACE",
+    "displayName": "Ferrari"
+    "name": "NYSE:FIG",
+    "displayName": "Figma"
+    "name": "NASDAQ:FSLR",
+    "displayName": "First Solar "
+    "name": "SIX:GF",
+    "displayName": "Fischer"
+    "name": "SIX:FHZN",
+    "displayName": "Flughafen Zürich"
+    "name": "NYSE:FL",
+    "displayName": "Foot Locker"
+    "name": "NYSE:F",
+    "displayName": "Ford"
+    "name": "NASDAQ:FTNT",
+    "displayName": "Fortinet"
+    "name": "NYSE:GPS",
+    "displayName": "GAP"
+    "name": "SIX:GALD",
+    "displayName": "Galderma"
+    "name": "NYSE:GRMN",
+    "displayName": "Garmin"
+    "name": "SIX:GEBN",
+    "displayName": "Geberit"
+    "name": "NYSE:GE",
+    "displayName": "General Electric"
+    "name": "NYSE:GIS",
+    "displayName": "General Mills"
+    "name": "NYSE:GM",
+    "displayName": "General Motors "
+    "name": "SIX:GIVN",
+    "displayName": "Givaudan"
+    "name": "LSE:GSK",
+    "displayName": "GlaxoSmithKline"
+    "name": "LSE:GLEN",
+    "displayName": "Glencore"
+    "name": "NYSE:GS",
+    "displayName": "Goldman Sachs"
+    "name": "NASDAQ:GT",
+    "displayName": "Goodyear"
+    "name": "NASDAQ:GPRO",
+    "displayName": "Gopro"
+    "name": "NYSE:HPQ",
+    "displayName": "HP"
+    "name": "LSE:HSBA",
+    "displayName": "HSBC"
+    "name": "NYSE:HOG",
+    "displayName": "Harley Davidson"
+    "name": "NASDAQ:HAS",
+    "displayName": "Hasbro"
+    "name": "EURONEXT:HEIO",
+    "displayName": "Heineken"
+    "name": "XETR:HFG",
+    "displayName": "Hello Fresh"
+    "name": "SIX:HELN",
+    "displayName": "Helvetia"
+    "name": "EURONEXT:RMS",
+    "displayName": "Hermès"
+    "name": "SIX:HOLN",
+    "displayName": "Holcim"
+    "name": "NYSE:HD",
+    "displayName": "Home Depot "
+    "name": "NYSE:HMC",
+    "displayName": "Honda"
+    "name": "NASDAQ:HON",
+    "displayName": "Honeywell"
+    "name": "XETR:BOSS",
+    "displayName": "Hugo Boss"
+    "name": "NYSE:IBM",
+    "displayName": "IBM"
+    "name": "EURONEXT:INGA",
+    "displayName": "ING"
+    "name": "SIX:IDIA",
+    "displayName": "Idorsia"
+    "name": "SIX:IMPN",
+    "displayName": "Implenia"
+    "name": "BME:ITX",
+    "displayName": "Inditex (Zara)"
+    "name": "XETR:IFX",
+    "displayName": "Infineon"
+    "name": "NASDAQ:INTC",
+    "displayName": "Intel"
+    "name": "NASDAQ:IBKR",
+    "displayName": "Interactive Brokers"
+    "name": "MIL:ISP",
+    "displayName": "Intesa Sanpaolo"
+    "name": "NASDAQ:INTU",
+    "displayName": "Intuit"
+    "name": "NYSE:IONQ",
+    "displayName": "IonQ"
+    "name": "NYSE:JPM",
+    "displayName": "JP Morgan Chase"
+    "name": "NYSE:DE",
+    "displayName": "John Deere"
+    "name": "NYSE:JNJ",
+    "displayName": "Johnson & Johnson"
+    "name": "SIX:BAER",
+    "displayName": "Julius Baer"
+    "name": "SIX:JFN",
+    "displayName": "Jungfraubahn"
+    "name": "MIL:JUVE",
+    "displayName": "Juventus Football club"
+    "name": "NASDAQ:KLAC",
+    "displayName": "KLA"
+    "name": "NYSE:K",
+    "displayName": "Kellanova"
+    "name": "EURONEXT:KER",
+    "displayName": "Kering"
+    "name": "NASDAQ:KDP",
+    "displayName": "Keurig Dr Pepper"
+    "name": "NASDAQ:KMB",
+    "displayName": "Kimberly-Clark"
+    "name": "NYSE:KLAR",
+    "displayName": "Klarna"
+    "name": "NASDAQ:KHC",
+    "displayName": "Kraft Heinz"
+    "name": "SIX:KUD",
+    "displayName": "Kudelski"
+    "name": "SIX:KNIN",
+    "displayName": "Kühne+Nagel"
+    "name": "EURONEXT:OR",
+    "displayName": "L'Oreal"
+    "name": "EURONEXT:MC",
+    "displayName": "LVMH"
+    "name": "NYSE:LVS",
+    "displayName": "Las Vegas Sands"
+    "name": "NASDAQ:FWONK",
+    "displayName": "Liberty Media"
+    "name": "XETR:LIN",
+    "displayName": "Linde"
+    "name": "SIX:LISN",
+    "displayName": "Lindt"
+    "name": "LSE:LLOY",
+    "displayName": "Lloyds Banking"
+    "name": "NYSE:LMT",
+    "displayName": "Lockheed Martin"
+    "name": "SIX:LOGN",
+    "displayName": "Logitech"
+    "name": "SIX:LONN",
+    "displayName": "Lonza"
+    "name": "NYSE:LOW",
+    "displayName": "Lowe's"
+    "name": "NASDAQ:LCID",
+    "displayName": "Lucid Motors"
+    "name": "XETR:LHA",
+    "displayName": "Lufthansa"
+    "name": "NASDAQ:LULU",
+    "displayName": "Lululemon"
+    "name": "SIX:LUKN",
+    "displayName": "Luzerner Kantonalbank"
+    "name": "NASDAQ:LYFT",
+    "displayName": "Lyft"
+    "name": "NYSE:MGM",
+    "displayName": "MGM Resorts International"
+    "name": "NYSE:MSGE",
+    "displayName": "Madison Square Garden Sports"
+    "name": "NYSE:MANU",
+    "displayName": "Manchester United"
+    "name": "LSE:MKS",
+    "displayName": "Marks & Spencer"
+    "name": "NASDAQ:MAR",
+    "displayName": "Marriott"
+    "name": "NYSE:MA",
+    "displayName": "Mastercard"
+    "name": "NASDAQ:MTCH",
+    "displayName": "Match Group (Tinder)"
+    "name": "NYSE:MCD",
+    "displayName": "McDonald's"
+    "name": "XETR:DAI",
+    "displayName": "Mercedes-Benz Group (Daimler)"
+    "name": "XETR:MRK",
+    "displayName": "Merck"
+    "name": "NASDAQ:FB",
+    "displayName": "Meta (Facebook)"
+    "name": "EURONEXT:ML",
+    "displayName": "Michelin"
+    "name": "NASDAQ:MSTR",
+    "displayName": "MicroStrategy"
+    "name": "NASDAQ:MU",
+    "displayName": "Micron Technology"
+    "name": "NASDAQ:MSFT",
+    "displayName": "Microsoft"
+    "name": "SIX:MOZN",
+    "displayName": "MobileZone"
+    "name": "NASDAQ:MRNA",
+    "displayName": "Moderna"
+    "name": "MIL:MONC",
+    "displayName": "Moncler"
+    "name": "NASDAQ:MDLZ",
+    "displayName": "Mondelez"
+    "name": "NASDAQ:MNST",
+    "displayName": "Monster"
+    "name": "NYSE:MCO",
+    "displayName": "Moody's"
+    "name": "NYSE:MS",
+    "displayName": "Morgan Stanley"
+    "name": "XETR:MUV2",
+    "displayName": "Munich Re"
+    "name": "SIX:NESN",
+    "displayName": "Nestlé"
+    "name": "NASDAQ:NFLX",
+    "displayName": "Netflix "
+    "name": "NYSE:NKE",
+    "displayName": "Nike"
+    "name": "NYSE:NCLH",
+    "displayName": "Norwegian Cruise Line"
+    "name": "SIX:NOVN",
+    "displayName": "Novartis "
+    "name": "NASDAQ:NVAX",
+    "displayName": "Novavax"
+    "name": "NYSE:NVO",
+    "displayName": "Novo Nordisk"
+    "name": "NASDAQ:NVDA",
+    "displayName": "Nvidia"
+    "name": "NYSE:ONON",
+    "displayName": "On"
+    "name": "NYSE:ORCL",
+    "displayName": "Oracle"
+    "name": "EURONEXT:ORA",
+    "displayName": "Orange"
+    "name": "NYSE:PG",
+    "displayName": "P&G"
+    "name": "SIX:PSPN",
+    "displayName": "PSP Swiss Property"
+    "name": "NASDAQ:PLTR",
+    "displayName": "Palantir"
+    "name": "NASDAQ:PANW",
+    "displayName": "Palo Alto Networks"
+    "name": "SIX:PGHN",
+    "displayName": "Partners Group"
+    "name": "NASDAQ:PYPL",
+    "displayName": "Paypal"
+    "name": "NASDAQ:PTON",
+    "displayName": "Peloton"
+    "name": "NASDAQ:PEPS",
+    "displayName": "Pepsico "
+    "name": "NYSE:PFE",
+    "displayName": "Pfizer "
+    "name": "NYSE:PM",
+    "displayName": "Philip Morris"
+    "name": "EURONEXT:PHIA",
+    "displayName": "Philips"
+    "name": "NYSE:PINS",
+    "displayName": "Pinterest"
+    "name": "NASDAQ:PLUG",
+    "displayName": "Plug Power"
+    "name": "XETR:P911",
+    "displayName": "Porsche"
+    "name": "XETR:PUM",
+    "displayName": "Puma"
+    "name": "NASDAQ:QCOM",
+    "displayName": "Qualcomm"
+    "name": "XETR:RWE",
+    "displayName": "RWE"
+    "name": "NYSE:O",
+    "displayName": "Realty Income"
+    "name": "NYSE:RDDT",
+    "displayName": "Reddit"
+    "name": "EURONEXT:RNO",
+    "displayName": "Renault"
+    "name": "SIX:CFR",
+    "displayName": "Richemont"
+    "name": "NASDAQ:RGTI",
+    "displayName": "Rigetti Computing"
+    "name": "LSE:RIO",
+    "displayName": "Rio Tinto"
+    "name": "NASDAQ:RIVN",
+    "displayName": "Rivian"
+    "name": "NASDAQ:HOOD",
+    "displayName": "Robinhood"
+    "name": "NYSE:RBLX",
+    "displayName": "Roblox"
+    "name": "SIX:ROG",
+    "displayName": "Roche"
+    "name": "NASDAQ:ROKU",
+    "displayName": "Roku"
+    "name": "LSE:RR/",
+    "displayName": "Rolls-Royce"
+    "name": "NYSE:SPGI",
+    "displayName": "S&P Global"
+    "name": "XETR:SAP",
+    "displayName": "SAP"
+    "name": "SIX:SGSN",
+    "displayName": "SGS"
+    "name": "NYSE:CRM",
+    "displayName": "Salesforce"
+    "name": "LSE:SMSN",
+    "displayName": "Samsung"
+    "name": "SIX:SDZ",
+    "displayName": "Sandoz"
+    "name": "EURONEXT:SANO",
+    "displayName": "Sanofi"
+    "name": "BME:SANT",
+    "displayName": "Santander"
+    "name": "SIX:SCHN",
+    "displayName": "Schindler"
+    "name": "EURONEXT:SU",
+    "displayName": "Schneider Electric"
+    "name": "NYSE:NOW",
+    "displayName": "ServiceNow"
+    "name": "NYSE:SHAK",
+    "displayName": "Shake Shack"
+    "name": "EURONEXT:SHELL",
+    "displayName": "Shell"
+    "name": "NASDAQ:SHOP",
+    "displayName": "Shopify"
+    "name": "XETR:SIE",
+    "displayName": "Siemens "
+    "name": "XETR:ENR",
+    "displayName": "Siemens Energy "
+    "name": "SIX:SIKA",
+    "displayName": "Sika"
+    "name": "XETR:SIX2",
+    "displayName": "Sixt"
+    "name": "NYSE:SNAP",
+    "displayName": "Snapchat"
+    "name": "NYSE:SNOW",
+    "displayName": "Snowflake"
+    "name": "EURONEXT:GLE",
+    "displayName": "Société Générale"
+    "name": "SIX:SOON",
+    "displayName": "Sonova"
+    "name": "NYSE:SNE",
+    "displayName": "Sony"
+    "name": "NYSE:SPHR",
+    "displayName": "Sphere Entertainment"
+    "name": "NYSE:SPOT",
+    "displayName": "Spotify"
+    "name": "SIX:SGKN",
+    "displayName": "St. Galler Kantonalbank"
+    "name": "SIX:SRAIL",
+    "displayName": "Stadler Rail"
+    "name": "NASDAQ:SBUX",
+    "displayName": "Starbucks"
+    "name": "MIL:STLA",
+    "displayName": "Stellantis"
+    "name": "SIX:STMN",
+    "displayName": "Straumann"
+    "name": "SIX:SUN",
+    "displayName": "Sulzer"
+    "name": "SIX:SUNN",
+    "displayName": "Sunrise"
+    "name": "NASDAQ:SMCI",
+    "displayName": "Super Micro Computer"
+    "name": "SIX:UHR",
+    "displayName": "Swatch Group"
+    "name": "SIX:SLHN",
+    "displayName": "Swiss Life"
+    "name": "SIX:SPSN",
+    "displayName": "Swiss Prime Site"
+    "name": "SIX:SREN",
+    "displayName": "Swiss Re"
+    "name": "SIX:SCMN",
+    "displayName": "Swisscom "
+    "name": "SIX:SQN",
+    "displayName": "Swissquote"
+    "name": "NASDAQ:TMUS",
+    "displayName": "T-Mobile"
+    "name": "NYSE:TKO",
+    "displayName": "TKO Group"
+    "name": "NYSE:TSM",
+    "displayName": "TSMC"
+    "name": "NASDAQ:TTWO",
+    "displayName": "Take Two"
+    "name": "NYSE:TGT",
+    "displayName": "Target"
+    "name": "XETR:TMV",
+    "displayName": "TeamViewer"
+    "name": "SIX:TEMN",
+    "displayName": "Temenos"
+    "name": "LSE:TSCO",
+    "displayName": "Tesco"
+    "name": "NASDAQ:TSLA",
+    "displayName": "Tesla "
+    "name": "NASDAQ:TXN",
+    "displayName": "Texas instruments"
+    "name": "NYSE:TMO",
+    "displayName": "Thermo Fisher"
+    "name": "XETR:TKA",
+    "displayName": "Thyssenkrupp"
+    "name": "EURONEXT:TTE",
+    "displayName": "Totalenergies"
+    "name": "NYSE:TM",
+    "displayName": "Toyota"
+    "name": "XETR:TUI1",
+    "displayName": "Tui"
+    "name": "SIX:UBSG",
+    "displayName": "UBS"
+    "name": "NYSE:UPS",
+    "displayName": "UPS"
+    "name": "NYSE:UBER",
+    "displayName": "Uber"
+    "name": "EURONEXT:UBI",
+    "displayName": "Ubisoft"
+    "name": "NYSE:UAA",
+    "displayName": "Under Armour"
+    "name": "LSE:ULVR",
+    "displayName": "Unilever"
+    "name": "SIX:VACN",
+    "displayName": "VAT Group"
+    "name": "NYSE:VALE",
+    "displayName": "Vale"
+    "name": "SIX:VATN",
+    "displayName": "Valiant"
+    "name": "EURONEXT:VIE",
+    "displayName": "Veolia"
+    "name": "NYSE:VZ",
+    "displayName": "Verizon"
+    "name": "XETR:VWSB",
+    "displayName": "Vestas Wind Systems"
+    "name": "NYSE:SPCE",
+    "displayName": "Virgin Galactic"
+    "name": "NYSE:V",
+    "displayName": "Visa"
+    "name": "NYSE:VST",
+    "displayName": "Vistra"
+    "name": "EURONEXT:VIV",
+    "displayName": "Vivendi"
+    "name": "LSE:VOD",
+    "displayName": "Vodafone"
+    "name": "XETR:VOW",
+    "displayName": "Volkswagen"
+    "name": "SIX:VONN",
+    "displayName": "Vontobel"
+    "name": "NASDAQ:WW",
+    "displayName": "WW (Weight Watchers)"
+    "name": "NYSE:WMT",
+    "displayName": "Walmart "
+    "name": "NYSE:DIS",
+    "displayName": "Walt Disney"
+    "name": "NASDAQ:WBD",
+    "displayName": "Warner Bros Discovery"
+    "name": "LSE:WISE",
+    "displayName": "Wise"
+    "name": "NASDAQ:WDAY",
+    "displayName": "Workday"
+    "name": "NYSE:YUM",
+    "displayName": "Yum! Brands "
+    "name": "XETR:ZAL",
+    "displayName": "Zalando"
+    "name": "NASDAQ:ZM",
+    "displayName": "Zoom"
+    "name": "NASDAQ:ZS",
+    "displayName": "Zscaler"
+    "name": "SIX:ZURN",
+    "displayName": "Zurich Insurance"
+    "name": "NASDAQ:IRBT",
+    "displayName": "iRobot"

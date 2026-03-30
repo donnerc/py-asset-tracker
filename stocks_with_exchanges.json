@@ -1,0 +1,1762 @@
+[
+  {
+    "yuh_ticker": "MMM",
+    "exchange": "NYSE",
+    "name": "3M"
+  },
+  {
+    "yuh_ticker": "ABI",
+    "exchange": "EURONEXT",
+    "name": "AB InBev"
+  },
+  {
+    "yuh_ticker": "ABBN",
+    "exchange": "SIX",
+    "name": "ABB"
+  },
+  {
+    "yuh_ticker": "AMD",
+    "exchange": "NASDAQ",
+    "name": "AMD"
+  },
+  {
+    "yuh_ticker": "ASML",
+    "exchange": "EURONEXT",
+    "name": "ASML"
+  },
+  {
+    "yuh_ticker": "T",
+    "exchange": "NYSE",
+    "name": "AT&T"
+  },
+  {
+    "yuh_ticker": "CS",
+    "exchange": "EURONEXT",
+    "name": "AXA"
+  },
+  {
+    "yuh_ticker": "ACLN",
+    "exchange": "SIX",
+    "name": "Accelleron"
+  },
+  {
+    "yuh_ticker": "ACN",
+    "exchange": "NYSE",
+    "name": "Accenture"
+  },
+  {
+    "yuh_ticker": "AC",
+    "exchange": "EURONEXT",
+    "name": "Accor"
+  },
+  {
+    "yuh_ticker": "ADEN",
+    "exchange": "SIX",
+    "name": "Adecco"
+  },
+  {
+    "yuh_ticker": "ADS",
+    "exchange": "XETR",
+    "name": "Adidas"
+  },
+  {
+    "yuh_ticker": "ADBE",
+    "exchange": "NASDAQ",
+    "name": "Adobe"
+  },
+  {
+    "yuh_ticker": "AFRM",
+    "exchange": "NASDAQ",
+    "name": "Affirm"
+  },
+  {
+    "yuh_ticker": "AF FP",
+    "exchange": "EURONEXT",
+    "name": "Air France-KLM"
+  },
+  {
+    "yuh_ticker": "AI",
+    "exchange": "EURONEXT",
+    "name": "Air Liquide"
+  },
+  {
+    "yuh_ticker": "ABNB",
+    "exchange": "NASDAQ",
+    "name": "Airbnb"
+  },
+  {
+    "yuh_ticker": "AIR",
+    "exchange": "EURONEXT",
+    "name": "Airbus"
+  },
+  {
+    "yuh_ticker": "ALC",
+    "exchange": "SIX",
+    "name": "Alcon"
+  },
+  {
+    "yuh_ticker": "ALV",
+    "exchange": "XETR",
+    "name": "Allianz"
+  },
+  {
+    "yuh_ticker": "GOOG",
+    "exchange": "NASDAQ",
+    "name": "Alphabet (Google)"
+  },
+  {
+    "yuh_ticker": "ALO",
+    "exchange": "EURONEXT",
+    "name": "Alstom"
+  },
+  {
+    "yuh_ticker": "MO",
+    "exchange": "NYSE",
+    "name": "Altria"
+  },
+  {
+    "yuh_ticker": "AMZN",
+    "exchange": "NASDAQ",
+    "name": "Amazon"
+  },
+  {
+    "yuh_ticker": "AS",
+    "exchange": "NYSE",
+    "name": "Amer Sports"
+  },
+  {
+    "yuh_ticker": "AAL",
+    "exchange": "NASDAQ",
+    "name": "American Airlines"
+  },
+  {
+    "yuh_ticker": "AXP",
+    "exchange": "NYSE",
+    "name": "American Express"
+  },
+  {
+    "yuh_ticker": "AMGN",
+    "exchange": "NASDAQ",
+    "name": "Amgen"
+  },
+  {
+    "yuh_ticker": "AMRZ",
+    "exchange": "SIX",
+    "name": "Amrize"
+  },
+  {
+    "yuh_ticker": "AMS",
+    "exchange": "SIX",
+    "name": "Ams-osram"
+  },
+  {
+    "yuh_ticker": "APP",
+    "exchange": "NASDAQ",
+    "name": "AppLovin"
+  },
+  {
+    "yuh_ticker": "AAPL",
+    "exchange": "NASDAQ",
+    "name": "Apple"
+  },
+  {
+    "yuh_ticker": "AMAT",
+    "exchange": "NASDAQ",
+    "name": "Applied Materials"
+  },
+  {
+    "yuh_ticker": "ARM",
+    "exchange": "NASDAQ",
+    "name": "Arm"
+  },
+  {
+    "yuh_ticker": "ARYN",
+    "exchange": "SIX",
+    "name": "Aryzta"
+  },
+  {
+    "yuh_ticker": "AML",
+    "exchange": "LSE",
+    "name": "Aston Martin"
+  },
+  {
+    "yuh_ticker": "AZN",
+    "exchange": "LSE",
+    "name": "AstraZeneca"
+  },
+  {
+    "yuh_ticker": "TEAM",
+    "exchange": "NASDAQ",
+    "name": "Atlassian"
+  },
+  {
+    "yuh_ticker": "ADSK",
+    "exchange": "NASDAQ",
+    "name": "Autodesk"
+  },
+  {
+    "yuh_ticker": "AVOL",
+    "exchange": "SIX",
+    "name": "Avolta"
+  },
+  {
+    "yuh_ticker": "BAS",
+    "exchange": "XETR",
+    "name": "BASF"
+  },
+  {
+    "yuh_ticker": "BION",
+    "exchange": "SIX",
+    "name": "BB Biotech"
+  },
+  {
+    "yuh_ticker": "BHP",
+    "exchange": "LSE",
+    "name": "BHP"
+  },
+  {
+    "yuh_ticker": "BKW",
+    "exchange": "SIX",
+    "name": "BKW Energie"
+  },
+  {
+    "yuh_ticker": "BMW",
+    "exchange": "XETR",
+    "name": "BMW"
+  },
+  {
+    "yuh_ticker": "BNP",
+    "exchange": "EURONEXT",
+    "name": "BNP Paribas"
+  },
+  {
+    "yuh_ticker": "BALN",
+    "exchange": "SIX",
+    "name": "Baloise"
+  },
+  {
+    "yuh_ticker": "BAC",
+    "exchange": "NYSE",
+    "name": "Bank Of America"
+  },
+  {
+    "yuh_ticker": "BCVN",
+    "exchange": "SIX",
+    "name": "Banque Cantonale Vaudoise"
+  },
+  {
+    "yuh_ticker": "BCGE",
+    "exchange": "SIX",
+    "name": "Banque Cantonale de Genève"
+  },
+  {
+    "yuh_ticker": "BSLN",
+    "exchange": "SIX",
+    "name": "Basilea"
+  },
+  {
+    "yuh_ticker": "BSKP",
+    "exchange": "SIX",
+    "name": "Basler Kantonalbank"
+  },
+  {
+    "yuh_ticker": "BAYN",
+    "exchange": "XETR",
+    "name": "Bayer"
+  },
+  {
+    "yuh_ticker": "BELL",
+    "exchange": "SIX",
+    "name": "Bell"
+  },
+  {
+    "yuh_ticker": "BRK/B",
+    "exchange": "NYSE",
+    "name": "Berkshire Hathaway"
+  },
+  {
+    "yuh_ticker": "BEKN",
+    "exchange": "SIX",
+    "name": "Berner Kantonalbank"
+  },
+  {
+    "yuh_ticker": "BYND",
+    "exchange": "NASDAQ",
+    "name": "Beyond Meat "
+  },
+  {
+    "yuh_ticker": "BNTX",
+    "exchange": "NASDAQ",
+    "name": "Biontech"
+  },
+  {
+    "yuh_ticker": "BIRK",
+    "exchange": "NYSE",
+    "name": "Birkenstock "
+  },
+  {
+    "yuh_ticker": "BLK",
+    "exchange": "NYSE",
+    "name": "Blackrock "
+  },
+  {
+    "yuh_ticker": "SQ",
+    "exchange": "NYSE",
+    "name": "Block"
+  },
+  {
+    "yuh_ticker": "BA",
+    "exchange": "NYSE",
+    "name": "Boeing"
+  },
+  {
+    "yuh_ticker": "BKNG",
+    "exchange": "NASDAQ",
+    "name": "Booking"
+  },
+  {
+    "yuh_ticker": "BVB",
+    "exchange": "XETR",
+    "name": "Borussia Dortmund"
+  },
+  {
+    "yuh_ticker": "BOSN",
+    "exchange": "SIX",
+    "name": "Bossard"
+  },
+  {
+    "yuh_ticker": "BATS",
+    "exchange": "LSE",
+    "name": "British American Tobacco"
+  },
+  {
+    "yuh_ticker": "BP.",
+    "exchange": "LSE",
+    "name": "British Petroleum"
+  },
+  {
+    "yuh_ticker": "AVGO",
+    "exchange": "NASDAQ",
+    "name": "Broadcom"
+  },
+  {
+    "yuh_ticker": "BMBL",
+    "exchange": "NASDAQ",
+    "name": "Bumble"
+  },
+  {
+    "yuh_ticker": "BRBY",
+    "exchange": "LSE",
+    "name": "Burberry"
+  },
+  {
+    "yuh_ticker": "AI",
+    "exchange": "NYSE",
+    "name": "C3 AI"
+  },
+  {
+    "yuh_ticker": "CB",
+    "exchange": "NYSE",
+    "name": "CHUBB "
+  },
+  {
+    "yuh_ticker": "CALN",
+    "exchange": "SIX",
+    "name": "Calida"
+  },
+  {
+    "yuh_ticker": "CCL",
+    "exchange": "NYSE",
+    "name": "Carnival"
+  },
+  {
+    "yuh_ticker": "CAT",
+    "exchange": "NYSE",
+    "name": "Caterpillar "
+  },
+  {
+    "yuh_ticker": "CELH",
+    "exchange": "NASDAQ",
+    "name": "Celsius Holdings"
+  },
+  {
+    "yuh_ticker": "CMBN",
+    "exchange": "SIX",
+    "name": "Cembra"
+  },
+  {
+    "yuh_ticker": "CHKP",
+    "exchange": "NASDAQ",
+    "name": "Check Point Software"
+  },
+  {
+    "yuh_ticker": "CVX",
+    "exchange": "NYSE",
+    "name": "Chevron"
+  },
+  {
+    "yuh_ticker": "CHYM",
+    "exchange": "NASDAQ",
+    "name": "Chime"
+  },
+  {
+    "yuh_ticker": "CDI",
+    "exchange": "EURONEXT",
+    "name": "Christian Dior"
+  },
+  {
+    "yuh_ticker": "CRCL",
+    "exchange": "NYSE",
+    "name": "Circle"
+  },
+  {
+    "yuh_ticker": "CSCO",
+    "exchange": "NASDAQ",
+    "name": "Cisco"
+  },
+  {
+    "yuh_ticker": "C",
+    "exchange": "NYSE",
+    "name": "Citigroup "
+  },
+  {
+    "yuh_ticker": "CLN",
+    "exchange": "SIX",
+    "name": "Clariant"
+  },
+  {
+    "yuh_ticker": "NET",
+    "exchange": "NYSE",
+    "name": "Cloudflare"
+  },
+  {
+    "yuh_ticker": "KO",
+    "exchange": "NYSE",
+    "name": "Coca-Cola"
+  },
+  {
+    "yuh_ticker": "COIN",
+    "exchange": "NASDAQ",
+    "name": "Coinbase"
+  },
+  {
+    "yuh_ticker": "CL",
+    "exchange": "NYSE",
+    "name": "Colgate-Palmolive"
+  },
+  {
+    "yuh_ticker": "CMCSA",
+    "exchange": "NASDAQ",
+    "name": "Comcast"
+  },
+  {
+    "yuh_ticker": "CBK",
+    "exchange": "XETR",
+    "name": "Commerzbank"
+  },
+  {
+    "yuh_ticker": "CRWV",
+    "exchange": "NASDAQ",
+    "name": "CoreWeave"
+  },
+  {
+    "yuh_ticker": "COST",
+    "exchange": "NASDAQ",
+    "name": "Costco"
+  },
+  {
+    "yuh_ticker": "ACA",
+    "exchange": "EURONEXT",
+    "name": "Credit Agricole"
+  },
+  {
+    "yuh_ticker": "CRWD",
+    "exchange": "NASDAQ",
+    "name": "CrowdStrike"
+  },
+  {
+    "yuh_ticker": "5CV GR",
+    "exchange": "XETR",
+    "name": "Curevac"
+  },
+  {
+    "yuh_ticker": "BN",
+    "exchange": "EURONEXT",
+    "name": "Danone"
+  },
+  {
+    "yuh_ticker": "DDOG",
+    "exchange": "NASDAQ",
+    "name": "Datadog"
+  },
+  {
+    "yuh_ticker": "DELL",
+    "exchange": "NYSE",
+    "name": "Dell"
+  },
+  {
+    "yuh_ticker": "DAL",
+    "exchange": "NYSE",
+    "name": "Delta Air Lines"
+  },
+  {
+    "yuh_ticker": "DBK",
+    "exchange": "XETR",
+    "name": "Deutsche Bank"
+  },
+  {
+    "yuh_ticker": "DPW",
+    "exchange": "XETR",
+    "name": "Deutsche Post"
+  },
+  {
+    "yuh_ticker": "DTE",
+    "exchange": "XETR",
+    "name": "Deutsche Telekom"
+  },
+  {
+    "yuh_ticker": "DGE",
+    "exchange": "LSE",
+    "name": "Diageo"
+  },
+  {
+    "yuh_ticker": "DKS",
+    "exchange": "NYSE",
+    "name": "Dick's sporting goods"
+  },
+  {
+    "yuh_ticker": "DOCM",
+    "exchange": "SIX",
+    "name": "DocMorris"
+  },
+  {
+    "yuh_ticker": "DPZ",
+    "exchange": "NASDAQ",
+    "name": "Dominos Pizza"
+  },
+  {
+    "yuh_ticker": "DASH",
+    "exchange": "NASDAQ",
+    "name": "DoorDash"
+  },
+  {
+    "yuh_ticker": "DOKA",
+    "exchange": "SIX",
+    "name": "Dormakaba"
+  },
+  {
+    "yuh_ticker": "DKNG",
+    "exchange": "NASDAQ",
+    "name": "DraftKings"
+  },
+  {
+    "yuh_ticker": "EOAN",
+    "exchange": "XETR",
+    "name": "E.ON"
+  },
+  {
+    "yuh_ticker": "EMSN",
+    "exchange": "SIX",
+    "name": "EMS-Chemie"
+  },
+  {
+    "yuh_ticker": "EZJ",
+    "exchange": "LSE",
+    "name": "Easyjet"
+  },
+  {
+    "yuh_ticker": "ETN",
+    "exchange": "NYSE",
+    "name": "Eaton"
+  },
+  {
+    "yuh_ticker": "EBAY",
+    "exchange": "NASDAQ",
+    "name": "Ebay "
+  },
+  {
+    "yuh_ticker": "EA",
+    "exchange": "NASDAQ",
+    "name": "Electronic Arts "
+  },
+  {
+    "yuh_ticker": "LLY",
+    "exchange": "NYSE",
+    "name": "Eli Lilly"
+  },
+  {
+    "yuh_ticker": "EMMN",
+    "exchange": "SIX",
+    "name": "Emmi"
+  },
+  {
+    "yuh_ticker": "ENEL",
+    "exchange": "MIL",
+    "name": "Enel"
+  },
+  {
+    "yuh_ticker": "ENGI",
+    "exchange": "EURONEXT",
+    "name": "Engie"
+  },
+  {
+    "yuh_ticker": "ENI",
+    "exchange": "MIL",
+    "name": "Eni"
+  },
+  {
+    "yuh_ticker": "ENPH",
+    "exchange": "NASDAQ",
+    "name": "Enphase Energy "
+  },
+  {
+    "yuh_ticker": "EL",
+    "exchange": "EURONEXT",
+    "name": "EssilorLuxottica"
+  },
+  {
+    "yuh_ticker": "EL",
+    "exchange": "NYSE",
+    "name": "Estee Lauder"
+  },
+  {
+    "yuh_ticker": "ETSY",
+    "exchange": "NYSE",
+    "name": "Etsy"
+  },
+  {
+    "yuh_ticker": "EXPE",
+    "exchange": "NASDAQ",
+    "name": "Expedia"
+  },
+  {
+    "yuh_ticker": "XOM",
+    "exchange": "NYSE",
+    "name": "Exxon Mobil"
+  },
+  {
+    "yuh_ticker": "FDX",
+    "exchange": "NYSE",
+    "name": "Fedex"
+  },
+  {
+    "yuh_ticker": "RACE",
+    "exchange": "MIL",
+    "name": "Ferrari"
+  },
+  {
+    "yuh_ticker": "FIG",
+    "exchange": "NYSE",
+    "name": "Figma"
+  },
+  {
+    "yuh_ticker": "FSLR",
+    "exchange": "NASDAQ",
+    "name": "First Solar "
+  },
+  {
+    "yuh_ticker": "GF",
+    "exchange": "SIX",
+    "name": "Fischer"
+  },
+  {
+    "yuh_ticker": "FHZN",
+    "exchange": "SIX",
+    "name": "Flughafen Zürich"
+  },
+  {
+    "yuh_ticker": "FL",
+    "exchange": "NYSE",
+    "name": "Foot Locker"
+  },
+  {
+    "yuh_ticker": "F",
+    "exchange": "NYSE",
+    "name": "Ford"
+  },
+  {
+    "yuh_ticker": "FTNT",
+    "exchange": "NASDAQ",
+    "name": "Fortinet"
+  },
+  {
+    "yuh_ticker": "GPS",
+    "exchange": "NYSE",
+    "name": "GAP"
+  },
+  {
+    "yuh_ticker": "GALD",
+    "exchange": "SIX",
+    "name": "Galderma"
+  },
+  {
+    "yuh_ticker": "GRMN",
+    "exchange": "NYSE",
+    "name": "Garmin"
+  },
+  {
+    "yuh_ticker": "GEBN",
+    "exchange": "SIX",
+    "name": "Geberit"
+  },
+  {
+    "yuh_ticker": "GE",
+    "exchange": "NYSE",
+    "name": "General Electric"
+  },
+  {
+    "yuh_ticker": "GIS",
+    "exchange": "NYSE",
+    "name": "General Mills"
+  },
+  {
+    "yuh_ticker": "GM",
+    "exchange": "NYSE",
+    "name": "General Motors "
+  },
+  {
+    "yuh_ticker": "GIVN",
+    "exchange": "SIX",
+    "name": "Givaudan"
+  },
+  {
+    "yuh_ticker": "GSK",
+    "exchange": "LSE",
+    "name": "GlaxoSmithKline"
+  },
+  {
+    "yuh_ticker": "GLEN",
+    "exchange": "LSE",
+    "name": "Glencore"
+  },
+  {
+    "yuh_ticker": "GS",
+    "exchange": "NYSE",
+    "name": "Goldman Sachs"
+  },
+  {
+    "yuh_ticker": "GT",
+    "exchange": "NASDAQ",
+    "name": "Goodyear"
+  },
+  {
+    "yuh_ticker": "GPRO",
+    "exchange": "NASDAQ",
+    "name": "Gopro"
+  },
+  {
+    "yuh_ticker": "HPQ",
+    "exchange": "NYSE",
+    "name": "HP"
+  },
+  {
+    "yuh_ticker": "HSBA",
+    "exchange": "LSE",
+    "name": "HSBC"
+  },
+  {
+    "yuh_ticker": "HOG",
+    "exchange": "NYSE",
+    "name": "Harley Davidson"
+  },
+  {
+    "yuh_ticker": "HAS",
+    "exchange": "NASDAQ",
+    "name": "Hasbro"
+  },
+  {
+    "yuh_ticker": "HEIO",
+    "exchange": "EURONEXT",
+    "name": "Heineken"
+  },
+  {
+    "yuh_ticker": "HFG",
+    "exchange": "XETR",
+    "name": "Hello Fresh"
+  },
+  {
+    "yuh_ticker": "HELN",
+    "exchange": "SIX",
+    "name": "Helvetia"
+  },
+  {
+    "yuh_ticker": "RMS",
+    "exchange": "EURONEXT",
+    "name": "Hermès"
+  },
+  {
+    "yuh_ticker": "HOLN",
+    "exchange": "SIX",
+    "name": "Holcim"
+  },
+  {
+    "yuh_ticker": "HD",
+    "exchange": "NYSE",
+    "name": "Home Depot "
+  },
+  {
+    "yuh_ticker": "HMC",
+    "exchange": "NYSE",
+    "name": "Honda"
+  },
+  {
+    "yuh_ticker": "HON",
+    "exchange": "NASDAQ",
+    "name": "Honeywell"
+  },
+  {
+    "yuh_ticker": "BOSS",
+    "exchange": "XETR",
+    "name": "Hugo Boss"
+  },
+  {
+    "yuh_ticker": "IBM",
+    "exchange": "NYSE",
+    "name": "IBM"
+  },
+  {
+    "yuh_ticker": "INGA",
+    "exchange": "EURONEXT",
+    "name": "ING"
+  },
+  {
+    "yuh_ticker": "IDIA",
+    "exchange": "SIX",
+    "name": "Idorsia"
+  },
+  {
+    "yuh_ticker": "IMPN",
+    "exchange": "SIX",
+    "name": "Implenia"
+  },
+  {
+    "yuh_ticker": "ITX",
+    "exchange": "BME",
+    "name": "Inditex (Zara)"
+  },
+  {
+    "yuh_ticker": "IFX",
+    "exchange": "XETR",
+    "name": "Infineon"
+  },
+  {
+    "yuh_ticker": "INTC",
+    "exchange": "NASDAQ",
+    "name": "Intel"
+  },
+  {
+    "yuh_ticker": "IBKR",
+    "exchange": "NASDAQ",
+    "name": "Interactive Brokers"
+  },
+  {
+    "yuh_ticker": "ISP",
+    "exchange": "MIL",
+    "name": "Intesa Sanpaolo"
+  },
+  {
+    "yuh_ticker": "INTU",
+    "exchange": "NASDAQ",
+    "name": "Intuit"
+  },
+  {
+    "yuh_ticker": "IONQ",
+    "exchange": "NYSE",
+    "name": "IonQ"
+  },
+  {
+    "yuh_ticker": "JPM",
+    "exchange": "NYSE",
+    "name": "JP Morgan Chase"
+  },
+  {
+    "yuh_ticker": "DE",
+    "exchange": "NYSE",
+    "name": "John Deere"
+  },
+  {
+    "yuh_ticker": "JNJ",
+    "exchange": "NYSE",
+    "name": "Johnson & Johnson"
+  },
+  {
+    "yuh_ticker": "BAER",
+    "exchange": "SIX",
+    "name": "Julius Baer"
+  },
+  {
+    "yuh_ticker": "JFN",
+    "exchange": "SIX",
+    "name": "Jungfraubahn"
+  },
+  {
+    "yuh_ticker": "JUVE",
+    "exchange": "MIL",
+    "name": "Juventus Football club"
+  },
+  {
+    "yuh_ticker": "KLAC",
+    "exchange": "NASDAQ",
+    "name": "KLA"
+  },
+  {
+    "yuh_ticker": "K",
+    "exchange": "NYSE",
+    "name": "Kellanova"
+  },
+  {
+    "yuh_ticker": "KER",
+    "exchange": "EURONEXT",
+    "name": "Kering"
+  },
+  {
+    "yuh_ticker": "KDP",
+    "exchange": "NASDAQ",
+    "name": "Keurig Dr Pepper"
+  },
+  {
+    "yuh_ticker": "KMB",
+    "exchange": "NASDAQ",
+    "name": "Kimberly-Clark"
+  },
+  {
+    "yuh_ticker": "KLAR",
+    "exchange": "NYSE",
+    "name": "Klarna"
+  },
+  {
+    "yuh_ticker": "KHC",
+    "exchange": "NASDAQ",
+    "name": "Kraft Heinz"
+  },
+  {
+    "yuh_ticker": "KUD",
+    "exchange": "SIX",
+    "name": "Kudelski"
+  },
+  {
+    "yuh_ticker": "KNIN",
+    "exchange": "SIX",
+    "name": "Kühne+Nagel"
+  },
+  {
+    "yuh_ticker": "OR",
+    "exchange": "EURONEXT",
+    "name": "L'Oreal"
+  },
+  {
+    "yuh_ticker": "MC",
+    "exchange": "EURONEXT",
+    "name": "LVMH"
+  },
+  {
+    "yuh_ticker": "LVS",
+    "exchange": "NYSE",
+    "name": "Las Vegas Sands"
+  },
+  {
+    "yuh_ticker": "FWONK",
+    "exchange": "NASDAQ",
+    "name": "Liberty Media"
+  },
+  {
+    "yuh_ticker": "LIN",
+    "exchange": "XETR",
+    "name": "Linde"
+  },
+  {
+    "yuh_ticker": "LISN",
+    "exchange": "SIX",
+    "name": "Lindt"
+  },
+  {
+    "yuh_ticker": "LLOY",
+    "exchange": "LSE",
+    "name": "Lloyds Banking"
+  },
+  {
+    "yuh_ticker": "LMT",
+    "exchange": "NYSE",
+    "name": "Lockheed Martin"
+  },
+  {
+    "yuh_ticker": "LOGN",
+    "exchange": "SIX",
+    "name": "Logitech"
+  },
+  {
+    "yuh_ticker": "LONN",
+    "exchange": "SIX",
+    "name": "Lonza"
+  },
+  {
+    "yuh_ticker": "LOW",
+    "exchange": "NYSE",
+    "name": "Lowe's"
+  },
+  {
+    "yuh_ticker": "LCID",
+    "exchange": "NASDAQ",
+    "name": "Lucid Motors"
+  },
+  {
+    "yuh_ticker": "LHA",
+    "exchange": "XETR",
+    "name": "Lufthansa"
+  },
+  {
+    "yuh_ticker": "LULU",
+    "exchange": "NASDAQ",
+    "name": "Lululemon"
+  },
+  {
+    "yuh_ticker": "LUKN",
+    "exchange": "SIX",
+    "name": "Luzerner Kantonalbank"
+  },
+  {
+    "yuh_ticker": "LYFT",
+    "exchange": "NASDAQ",
+    "name": "Lyft"
+  },
+  {
+    "yuh_ticker": "MGM",
+    "exchange": "NYSE",
+    "name": "MGM Resorts International"
+  },
+  {
+    "yuh_ticker": "MSGE",
+    "exchange": "NYSE",
+    "name": "Madison Square Garden Sports"
+  },
+  {
+    "yuh_ticker": "MANU",
+    "exchange": "NYSE",
+    "name": "Manchester United"
+  },
+  {
+    "yuh_ticker": "MKS",
+    "exchange": "LSE",
+    "name": "Marks & Spencer"
+  },
+  {
+    "yuh_ticker": "MAR",
+    "exchange": "NASDAQ",
+    "name": "Marriott"
+  },
+  {
+    "yuh_ticker": "MA",
+    "exchange": "NYSE",
+    "name": "Mastercard"
+  },
+  {
+    "yuh_ticker": "MTCH",
+    "exchange": "NASDAQ",
+    "name": "Match Group (Tinder)"
+  },
+  {
+    "yuh_ticker": "MCD",
+    "exchange": "NYSE",
+    "name": "McDonald's"
+  },
+  {
+    "yuh_ticker": "DAI",
+    "exchange": "XETR",
+    "name": "Mercedes-Benz Group (Daimler)"
+  },
+  {
+    "yuh_ticker": "MRK",
+    "exchange": "XETR",
+    "name": "Merck"
+  },
+  {
+    "yuh_ticker": "FB",
+    "exchange": "NASDAQ",
+    "name": "Meta (Facebook)"
+  },
+  {
+    "yuh_ticker": "ML",
+    "exchange": "EURONEXT",
+    "name": "Michelin"
+  },
+  {
+    "yuh_ticker": "MSTR",
+    "exchange": "NASDAQ",
+    "name": "MicroStrategy"
+  },
+  {
+    "yuh_ticker": "MU",
+    "exchange": "NASDAQ",
+    "name": "Micron Technology"
+  },
+  {
+    "yuh_ticker": "MSFT",
+    "exchange": "NASDAQ",
+    "name": "Microsoft"
+  },
+  {
+    "yuh_ticker": "MOZN",
+    "exchange": "SIX",
+    "name": "MobileZone"
+  },
+  {
+    "yuh_ticker": "MRNA",
+    "exchange": "NASDAQ",
+    "name": "Moderna"
+  },
+  {
+    "yuh_ticker": "MONC",
+    "exchange": "MIL",
+    "name": "Moncler"
+  },
+  {
+    "yuh_ticker": "MDLZ",
+    "exchange": "NASDAQ",
+    "name": "Mondelez"
+  },
+  {
+    "yuh_ticker": "MNST",
+    "exchange": "NASDAQ",
+    "name": "Monster"
+  },
+  {
+    "yuh_ticker": "MCO",
+    "exchange": "NYSE",
+    "name": "Moody's"
+  },
+  {
+    "yuh_ticker": "MS",
+    "exchange": "NYSE",
+    "name": "Morgan Stanley"
+  },
+  {
+    "yuh_ticker": "MUV2",
+    "exchange": "XETR",
+    "name": "Munich Re"
+  },
+  {
+    "yuh_ticker": "NESN",
+    "exchange": "SIX",
+    "name": "Nestlé"
+  },
+  {
+    "yuh_ticker": "NFLX",
+    "exchange": "NASDAQ",
+    "name": "Netflix "
+  },
+  {
+    "yuh_ticker": "NKE",
+    "exchange": "NYSE",
+    "name": "Nike"
+  },
+  {
+    "yuh_ticker": "NCLH",
+    "exchange": "NYSE",
+    "name": "Norwegian Cruise Line"
+  },
+  {
+    "yuh_ticker": "NOVN",
+    "exchange": "SIX",
+    "name": "Novartis "
+  },
+  {
+    "yuh_ticker": "NVAX",
+    "exchange": "NASDAQ",
+    "name": "Novavax"
+  },
+  {
+    "yuh_ticker": "NVO",
+    "exchange": "NYSE",
+    "name": "Novo Nordisk"
+  },
+  {
+    "yuh_ticker": "NVDA",
+    "exchange": "NASDAQ",
+    "name": "Nvidia"
+  },
+  {
+    "yuh_ticker": "ONON",
+    "exchange": "NYSE",
+    "name": "On"
+  },
+  {
+    "yuh_ticker": "ORCL",
+    "exchange": "NYSE",
+    "name": "Oracle"
+  },
+  {
+    "yuh_ticker": "ORA",
+    "exchange": "EURONEXT",
+    "name": "Orange"
+  },
+  {
+    "yuh_ticker": "PG",
+    "exchange": "NYSE",
+    "name": "P&G"
+  },
+  {
+    "yuh_ticker": "PSPN",
+    "exchange": "SIX",
+    "name": "PSP Swiss Property"
+  },
+  {
+    "yuh_ticker": "PLTR",
+    "exchange": "NASDAQ",
+    "name": "Palantir"
+  },
+  {
+    "yuh_ticker": "PANW",
+    "exchange": "NASDAQ",
+    "name": "Palo Alto Networks"
+  },
+  {
+    "yuh_ticker": "PGHN",
+    "exchange": "SIX",
+    "name": "Partners Group"
+  },
+  {
+    "yuh_ticker": "PYPL",
+    "exchange": "NASDAQ",
+    "name": "Paypal"
+  },
+  {
+    "yuh_ticker": "PTON",
+    "exchange": "NASDAQ",
+    "name": "Peloton"
+  },
+  {
+    "yuh_ticker": "PEPS",
+    "exchange": "NASDAQ",
+    "name": "Pepsico "
+  },
+  {
+    "yuh_ticker": "PFE",
+    "exchange": "NYSE",
+    "name": "Pfizer "
+  },
+  {
+    "yuh_ticker": "PM",
+    "exchange": "NYSE",
+    "name": "Philip Morris"
+  },
+  {
+    "yuh_ticker": "PHIA",
+    "exchange": "EURONEXT",
+    "name": "Philips"
+  },
+  {
+    "yuh_ticker": "PINS",
+    "exchange": "NYSE",
+    "name": "Pinterest"
+  },
+  {
+    "yuh_ticker": "PLUG",
+    "exchange": "NASDAQ",
+    "name": "Plug Power"
+  },
+  {
+    "yuh_ticker": "P911",
+    "exchange": "XETR",
+    "name": "Porsche"
+  },
+  {
+    "yuh_ticker": "PUM",
+    "exchange": "XETR",
+    "name": "Puma"
+  },
+  {
+    "yuh_ticker": "QCOM",
+    "exchange": "NASDAQ",
+    "name": "Qualcomm"
+  },
+  {
+    "yuh_ticker": "RWE",
+    "exchange": "XETR",
+    "name": "RWE"
+  },
+  {
+    "yuh_ticker": "O",
+    "exchange": "NYSE",
+    "name": "Realty Income"
+  },
+  {
+    "yuh_ticker": "RDDT",
+    "exchange": "NYSE",
+    "name": "Reddit"
+  },
+  {
+    "yuh_ticker": "RNO",
+    "exchange": "EURONEXT",
+    "name": "Renault"
+  },
+  {
+    "yuh_ticker": "CFR",
+    "exchange": "SIX",
+    "name": "Richemont"
+  },
+  {
+    "yuh_ticker": "RGTI",
+    "exchange": "NASDAQ",
+    "name": "Rigetti Computing"
+  },
+  {
+    "yuh_ticker": "RIO",
+    "exchange": "LSE",
+    "name": "Rio Tinto"
+  },
+  {
+    "yuh_ticker": "RIVN",
+    "exchange": "NASDAQ",
+    "name": "Rivian"
+  },
+  {
+    "yuh_ticker": "HOOD",
+    "exchange": "NASDAQ",
+    "name": "Robinhood"
+  },
+  {
+    "yuh_ticker": "RBLX",
+    "exchange": "NYSE",
+    "name": "Roblox"
+  },
+  {
+    "yuh_ticker": "ROG",
+    "exchange": "SIX",
+    "name": "Roche"
+  },
+  {
+    "yuh_ticker": "ROKU",
+    "exchange": "NASDAQ",
+    "name": "Roku"
+  },
+  {
+    "yuh_ticker": "RR/",
+    "exchange": "LSE",
+    "name": "Rolls-Royce"
+  },
+  {
+    "yuh_ticker": "SPGI",
+    "exchange": "NYSE",
+    "name": "S&P Global"
+  },
+  {
+    "yuh_ticker": "SAP",
+    "exchange": "XETR",
+    "name": "SAP"
+  },
+  {
+    "yuh_ticker": "SGSN",
+    "exchange": "SIX",
+    "name": "SGS"
+  },
+  {
+    "yuh_ticker": "CRM",
+    "exchange": "NYSE",
+    "name": "Salesforce"
+  },
+  {
+    "yuh_ticker": "SMSN",
+    "exchange": "LSE",
+    "name": "Samsung"
+  },
+  {
+    "yuh_ticker": "SDZ",
+    "exchange": "SIX",
+    "name": "Sandoz"
+  },
+  {
+    "yuh_ticker": "SANO",
+    "exchange": "EURONEXT",
+    "name": "Sanofi"
+  },
+  {
+    "yuh_ticker": "SANT",
+    "exchange": "BME",
+    "name": "Santander"
+  },
+  {
+    "yuh_ticker": "SCHN",
+    "exchange": "SIX",
+    "name": "Schindler"
+  },
+  {
+    "yuh_ticker": "SU",
+    "exchange": "EURONEXT",
+    "name": "Schneider Electric"
+  },
+  {
+    "yuh_ticker": "NOW",
+    "exchange": "NYSE",
+    "name": "ServiceNow"
+  },
+  {
+    "yuh_ticker": "SHAK",
+    "exchange": "NYSE",
+    "name": "Shake Shack"
+  },
+  {
+    "yuh_ticker": "SHELL",
+    "exchange": "EURONEXT",
+    "name": "Shell"
+  },
+  {
+    "yuh_ticker": "SHOP",
+    "exchange": "NASDAQ",
+    "name": "Shopify"
+  },
+  {
+    "yuh_ticker": "SIE",
+    "exchange": "XETR",
+    "name": "Siemens "
+  },
+  {
+    "yuh_ticker": "ENR",
+    "exchange": "XETR",
+    "name": "Siemens Energy "
+  },
+  {
+    "yuh_ticker": "SIKA",
+    "exchange": "SIX",
+    "name": "Sika"
+  },
+  {
+    "yuh_ticker": "SIX2",
+    "exchange": "XETR",
+    "name": "Sixt"
+  },
+  {
+    "yuh_ticker": "SNAP",
+    "exchange": "NYSE",
+    "name": "Snapchat"
+  },
+  {
+    "yuh_ticker": "SNOW",
+    "exchange": "NYSE",
+    "name": "Snowflake"
+  },
+  {
+    "yuh_ticker": "GLE",
+    "exchange": "EURONEXT",
+    "name": "Société Générale"
+  },
+  {
+    "yuh_ticker": "SOON",
+    "exchange": "SIX",
+    "name": "Sonova"
+  },
+  {
+    "yuh_ticker": "SNE",
+    "exchange": "NYSE",
+    "name": "Sony"
+  },
+  {
+    "yuh_ticker": "SPHR",
+    "exchange": "NYSE",
+    "name": "Sphere Entertainment"
+  },
+  {
+    "yuh_ticker": "SPOT",
+    "exchange": "NYSE",
+    "name": "Spotify"
+  },
+  {
+    "yuh_ticker": "SGKN",
+    "exchange": "SIX",
+    "name": "St. Galler Kantonalbank"
+  },
+  {
+    "yuh_ticker": "SRAIL",
+    "exchange": "SIX",
+    "name": "Stadler Rail"
+  },
+  {
+    "yuh_ticker": "SBUX",
+    "exchange": "NASDAQ",
+    "name": "Starbucks"
+  },
+  {
+    "yuh_ticker": "STLA",
+    "exchange": "MIL",
+    "name": "Stellantis"
+  },
+  {
+    "yuh_ticker": "STMN",
+    "exchange": "SIX",
+    "name": "Straumann"
+  },
+  {
+    "yuh_ticker": "SUN",
+    "exchange": "SIX",
+    "name": "Sulzer"
+  },
+  {
+    "yuh_ticker": "SUNN",
+    "exchange": "SIX",
+    "name": "Sunrise"
+  },
+  {
+    "yuh_ticker": "SMCI",
+    "exchange": "NASDAQ",
+    "name": "Super Micro Computer"
+  },
+  {
+    "yuh_ticker": "UHR",
+    "exchange": "SIX",
+    "name": "Swatch Group"
+  },
+  {
+    "yuh_ticker": "SLHN",
+    "exchange": "SIX",
+    "name": "Swiss Life"
+  },
+  {
+    "yuh_ticker": "SPSN",
+    "exchange": "SIX",
+    "name": "Swiss Prime Site"
+  },
+  {
+    "yuh_ticker": "SREN",
+    "exchange": "SIX",
+    "name": "Swiss Re"
+  },
+  {
+    "yuh_ticker": "SCMN",
+    "exchange": "SIX",
+    "name": "Swisscom "
+  },
+  {
+    "yuh_ticker": "SQN",
+    "exchange": "SIX",
+    "name": "Swissquote"
+  },
+  {
+    "yuh_ticker": "TMUS",
+    "exchange": "NASDAQ",
+    "name": "T-Mobile"
+  },
+  {
+    "yuh_ticker": "TKO",
+    "exchange": "NYSE",
+    "name": "TKO Group"
+  },
+  {
+    "yuh_ticker": "TSM",
+    "exchange": "NYSE",
+    "name": "TSMC"
+  },
+  {
+    "yuh_ticker": "TTWO",
+    "exchange": "NASDAQ",
+    "name": "Take Two"
+  },
+  {
+    "yuh_ticker": "TGT",
+    "exchange": "NYSE",
+    "name": "Target"
+  },
+  {
+    "yuh_ticker": "TMV",
+    "exchange": "XETR",
+    "name": "TeamViewer"
+  },
+  {
+    "yuh_ticker": "TEMN",
+    "exchange": "SIX",
+    "name": "Temenos"
+  },
+  {
+    "yuh_ticker": "TSCO",
+    "exchange": "LSE",
+    "name": "Tesco"
+  },
+  {
+    "yuh_ticker": "TSLA",
+    "exchange": "NASDAQ",
+    "name": "Tesla "
+  },
+  {
+    "yuh_ticker": "TXN",
+    "exchange": "NASDAQ",
+    "name": "Texas instruments"
+  },
+  {
+    "yuh_ticker": "TMO",
+    "exchange": "NYSE",
+    "name": "Thermo Fisher"
+  },
+  {
+    "yuh_ticker": "TKA",
+    "exchange": "XETR",
+    "name": "Thyssenkrupp"
+  },
+  {
+    "yuh_ticker": "TTE",
+    "exchange": "EURONEXT",
+    "name": "Totalenergies"
+  },
+  {
+    "yuh_ticker": "TM",
+    "exchange": "NYSE",
+    "name": "Toyota"
+  },
+  {
+    "yuh_ticker": "TUI1",
+    "exchange": "XETR",
+    "name": "Tui"
+  },
+  {
+    "yuh_ticker": "UBSG",
+    "exchange": "SIX",
+    "name": "UBS"
+  },
+  {
+    "yuh_ticker": "UPS",
+    "exchange": "NYSE",
+    "name": "UPS"
+  },
+  {
+    "yuh_ticker": "UBER",
+    "exchange": "NYSE",
+    "name": "Uber"
+  },
+  {
+    "yuh_ticker": "UBI",
+    "exchange": "EURONEXT",
+    "name": "Ubisoft"
+  },
+  {
+    "yuh_ticker": "UAA",
+    "exchange": "NYSE",
+    "name": "Under Armour"
+  },
+  {
+    "yuh_ticker": "ULVR",
+    "exchange": "LSE",
+    "name": "Unilever"
+  },
+  {
+    "yuh_ticker": "VACN",
+    "exchange": "SIX",
+    "name": "VAT Group"
+  },
+  {
+    "yuh_ticker": "VALE",
+    "exchange": "NYSE",
+    "name": "Vale"
+  },
+  {
+    "yuh_ticker": "VATN",
+    "exchange": "SIX",
+    "name": "Valiant"
+  },
+  {
+    "yuh_ticker": "VIE",
+    "exchange": "EURONEXT",
+    "name": "Veolia"
+  },
+  {
+    "yuh_ticker": "VZ",
+    "exchange": "NYSE",
+    "name": "Verizon"
+  },
+  {
+    "yuh_ticker": "VWSB",
+    "exchange": "XETR",
+    "name": "Vestas Wind Systems"
+  },
+  {
+    "yuh_ticker": "SPCE",
+    "exchange": "NYSE",
+    "name": "Virgin Galactic"
+  },
+  {
+    "yuh_ticker": "V",
+    "exchange": "NYSE",
+    "name": "Visa"
+  },
+  {
+    "yuh_ticker": "VST",
+    "exchange": "NYSE",
+    "name": "Vistra"
+  },
+  {
+    "yuh_ticker": "VIV",
+    "exchange": "EURONEXT",
+    "name": "Vivendi"
+  },
+  {
+    "yuh_ticker": "VOD",
+    "exchange": "LSE",
+    "name": "Vodafone"
+  },
+  {
+    "yuh_ticker": "VOW",
+    "exchange": "XETR",
+    "name": "Volkswagen"
+  },
+  {
+    "yuh_ticker": "VONN",
+    "exchange": "SIX",
+    "name": "Vontobel"
+  },
+  {
+    "yuh_ticker": "WW",
+    "exchange": "NASDAQ",
+    "name": "WW (Weight Watchers)"
+  },
+  {
+    "yuh_ticker": "WMT",
+    "exchange": "NYSE",
+    "name": "Walmart "
+  },
+  {
+    "yuh_ticker": "DIS",
+    "exchange": "NYSE",
+    "name": "Walt Disney"
+  },
+  {
+    "yuh_ticker": "WBD",
+    "exchange": "NASDAQ",
+    "name": "Warner Bros Discovery"
+  },
+  {
+    "yuh_ticker": "WISE",
+    "exchange": "LSE",
+    "name": "Wise"
+  },
+  {
+    "yuh_ticker": "WDAY",
+    "exchange": "NASDAQ",
+    "name": "Workday"
+  },
+  {
+    "yuh_ticker": "YUM",
+    "exchange": "NYSE",
+    "name": "Yum! Brands "
+  },
+  {
+    "yuh_ticker": "ZAL",
+    "exchange": "XETR",
+    "name": "Zalando"
+  },
+  {
+    "yuh_ticker": "ZM",
+    "exchange": "NASDAQ",
+    "name": "Zoom"
+  },
+  {
+    "yuh_ticker": "ZS",
+    "exchange": "NASDAQ",
+    "name": "Zscaler"
+  },
+  {
+    "yuh_ticker": "ZURN",
+    "exchange": "SIX",
+    "name": "Zurich Insurance"
+  },
+  {
+    "yuh_ticker": "IRBT",
+    "exchange": "NASDAQ",
+    "name": "iRobot"
+  }
+]

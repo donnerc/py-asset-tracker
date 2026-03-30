@@ -1,0 +1,1402 @@
+[
+  {
+    "ticker": "MMM",
+    "name": "3M"
+  },
+  {
+    "ticker": "ABI",
+    "name": "AB InBev"
+  },
+  {
+    "ticker": "ABBN",
+    "name": "ABB"
+  },
+  {
+    "ticker": "AMD",
+    "name": "AMD"
+  },
+  {
+    "ticker": "ASML",
+    "name": "ASML"
+  },
+  {
+    "ticker": "T",
+    "name": "AT&T"
+  },
+  {
+    "ticker": "CS",
+    "name": "AXA"
+  },
+  {
+    "ticker": "ACLN",
+    "name": "Accelleron"
+  },
+  {
+    "ticker": "ACN",
+    "name": "Accenture"
+  },
+  {
+    "ticker": "AC",
+    "name": "Accor"
+  },
+  {
+    "ticker": "ADEN",
+    "name": "Adecco"
+  },
+  {
+    "ticker": "ADS",
+    "name": "Adidas"
+  },
+  {
+    "ticker": "ADBE",
+    "name": "Adobe"
+  },
+  {
+    "ticker": "AFRM",
+    "name": "Affirm"
+  },
+  {
+    "ticker": "AF FP",
+    "name": "Air France-KLM"
+  },
+  {
+    "ticker": "AI",
+    "name": "Air Liquide"
+  },
+  {
+    "ticker": "ABNB",
+    "name": "Airbnb"
+  },
+  {
+    "ticker": "AIR",
+    "name": "Airbus"
+  },
+  {
+    "ticker": "ALC",
+    "name": "Alcon"
+  },
+  {
+    "ticker": "ALV",
+    "name": "Allianz"
+  },
+  {
+    "ticker": "GOOG",
+    "name": "Alphabet (Google)"
+  },
+  {
+    "ticker": "ALO",
+    "name": "Alstom"
+  },
+  {
+    "ticker": "MO",
+    "name": "Altria"
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon"
+  },
+  {
+    "ticker": "AS",
+    "name": "Amer Sports"
+  },
+  {
+    "ticker": "AAL",
+    "name": "American Airlines"
+  },
+  {
+    "ticker": "AXP",
+    "name": "American Express"
+  },
+  {
+    "ticker": "AMGN",
+    "name": "Amgen"
+  },
+  {
+    "ticker": "AMRZ",
+    "name": "Amrize"
+  },
+  {
+    "ticker": "AMS",
+    "name": "Ams-osram"
+  },
+  {
+    "ticker": "APP",
+    "name": "AppLovin"
+  },
+  {
+    "ticker": "AAPL",
+    "name": "Apple"
+  },
+  {
+    "ticker": "AMAT",
+    "name": "Applied Materials"
+  },
+  {
+    "ticker": "ARM",
+    "name": "Arm"
+  },
+  {
+    "ticker": "ARYN",
+    "name": "Aryzta"
+  },
+  {
+    "ticker": "AML",
+    "name": "Aston Martin"
+  },
+  {
+    "ticker": "AZN",
+    "name": "AstraZeneca"
+  },
+  {
+    "ticker": "TEAM",
+    "name": "Atlassian"
+  },
+  {
+    "ticker": "ADSK",
+    "name": "Autodesk"
+  },
+  {
+    "ticker": "AVOL",
+    "name": "Avolta"
+  },
+  {
+    "ticker": "BAS",
+    "name": "BASF"
+  },
+  {
+    "ticker": "BION",
+    "name": "BB Biotech"
+  },
+  {
+    "ticker": "BHP",
+    "name": "BHP"
+  },
+  {
+    "ticker": "BKW",
+    "name": "BKW Energie"
+  },
+  {
+    "ticker": "BMW",
+    "name": "BMW"
+  },
+  {
+    "ticker": "BNP",
+    "name": "BNP Paribas"
+  },
+  {
+    "ticker": "BALN",
+    "name": "Baloise"
+  },
+  {
+    "ticker": "BAC",
+    "name": "Bank Of America"
+  },
+  {
+    "ticker": "BCVN",
+    "name": "Banque Cantonale Vaudoise"
+  },
+  {
+    "ticker": "BCGE",
+    "name": "Banque Cantonale de Genève"
+  },
+  {
+    "ticker": "BSLN",
+    "name": "Basilea"
+  },
+  {
+    "ticker": "BSKP",
+    "name": "Basler Kantonalbank"
+  },
+  {
+    "ticker": "BAYN",
+    "name": "Bayer"
+  },
+  {
+    "ticker": "BELL",
+    "name": "Bell"
+  },
+  {
+    "ticker": "BRK/B",
+    "name": "Berkshire Hathaway"
+  },
+  {
+    "ticker": "BEKN",
+    "name": "Berner Kantonalbank"
+  },
+  {
+    "ticker": "BYND",
+    "name": "Beyond Meat "
+  },
+  {
+    "ticker": "BNTX",
+    "name": "Biontech"
+  },
+  {
+    "ticker": "BIRK",
+    "name": "Birkenstock "
+  },
+  {
+    "ticker": "BLK",
+    "name": "Blackrock "
+  },
+  {
+    "ticker": "SQ",
+    "name": "Block"
+  },
+  {
+    "ticker": "BA",
+    "name": "Boeing"
+  },
+  {
+    "ticker": "BKNG",
+    "name": "Booking"
+  },
+  {
+    "ticker": "BVB",
+    "name": "Borussia Dortmund"
+  },
+  {
+    "ticker": "BOSN",
+    "name": "Bossard"
+  },
+  {
+    "ticker": "BATS",
+    "name": "British American Tobacco"
+  },
+  {
+    "ticker": "BP.",
+    "name": "British Petroleum"
+  },
+  {
+    "ticker": "AVGO",
+    "name": "Broadcom"
+  },
+  {
+    "ticker": "BMBL",
+    "name": "Bumble"
+  },
+  {
+    "ticker": "BRBY",
+    "name": "Burberry"
+  },
+  {
+    "ticker": "CB",
+    "name": "CHUBB "
+  },
+  {
+    "ticker": "CALN",
+    "name": "Calida"
+  },
+  {
+    "ticker": "CCL",
+    "name": "Carnival"
+  },
+  {
+    "ticker": "CAT",
+    "name": "Caterpillar "
+  },
+  {
+    "ticker": "CELH",
+    "name": "Celsius Holdings"
+  },
+  {
+    "ticker": "CMBN",
+    "name": "Cembra"
+  },
+  {
+    "ticker": "CHKP",
+    "name": "Check Point Software"
+  },
+  {
+    "ticker": "CVX",
+    "name": "Chevron"
+  },
+  {
+    "ticker": "CHYM",
+    "name": "Chime"
+  },
+  {
+    "ticker": "CDI",
+    "name": "Christian Dior"
+  },
+  {
+    "ticker": "CRCL",
+    "name": "Circle"
+  },
+  {
+    "ticker": "CSCO",
+    "name": "Cisco"
+  },
+  {
+    "ticker": "C",
+    "name": "Citigroup "
+  },
+  {
+    "ticker": "CLN",
+    "name": "Clariant"
+  },
+  {
+    "ticker": "NET",
+    "name": "Cloudflare"
+  },
+  {
+    "ticker": "KO",
+    "name": "Coca-Cola"
+  },
+  {
+    "ticker": "COIN",
+    "name": "Coinbase"
+  },
+  {
+    "ticker": "CL",
+    "name": "Colgate-Palmolive"
+  },
+  {
+    "ticker": "CMCSA",
+    "name": "Comcast"
+  },
+  {
+    "ticker": "CBK",
+    "name": "Commerzbank"
+  },
+  {
+    "ticker": "CRWV",
+    "name": "CoreWeave"
+  },
+  {
+    "ticker": "COST",
+    "name": "Costco"
+  },
+  {
+    "ticker": "ACA",
+    "name": "Credit Agricole"
+  },
+  {
+    "ticker": "CRWD",
+    "name": "CrowdStrike"
+  },
+  {
+    "ticker": "5CV GR",
+    "name": "Curevac"
+  },
+  {
+    "ticker": "BN",
+    "name": "Danone"
+  },
+  {
+    "ticker": "DDOG",
+    "name": "Datadog"
+  },
+  {
+    "ticker": "DELL",
+    "name": "Dell"
+  },
+  {
+    "ticker": "DAL",
+    "name": "Delta Air Lines"
+  },
+  {
+    "ticker": "DBK",
+    "name": "Deutsche Bank"
+  },
+  {
+    "ticker": "DPW",
+    "name": "Deutsche Post"
+  },
+  {
+    "ticker": "DTE",
+    "name": "Deutsche Telekom"
+  },
+  {
+    "ticker": "DGE",
+    "name": "Diageo"
+  },
+  {
+    "ticker": "DKS",
+    "name": "Dick's sporting goods"
+  },
+  {
+    "ticker": "DOCM",
+    "name": "DocMorris"
+  },
+  {
+    "ticker": "DPZ",
+    "name": "Dominos Pizza"
+  },
+  {
+    "ticker": "DASH",
+    "name": "DoorDash"
+  },
+  {
+    "ticker": "DOKA",
+    "name": "Dormakaba"
+  },
+  {
+    "ticker": "DKNG",
+    "name": "DraftKings"
+  },
+  {
+    "ticker": "EOAN",
+    "name": "E.ON"
+  },
+  {
+    "ticker": "EMSN",
+    "name": "EMS-Chemie"
+  },
+  {
+    "ticker": "EZJ",
+    "name": "Easyjet"
+  },
+  {
+    "ticker": "ETN",
+    "name": "Eaton"
+  },
+  {
+    "ticker": "EBAY",
+    "name": "Ebay "
+  },
+  {
+    "ticker": "EA",
+    "name": "Electronic Arts "
+  },
+  {
+    "ticker": "LLY",
+    "name": "Eli Lilly"
+  },
+  {
+    "ticker": "EMMN",
+    "name": "Emmi"
+  },
+  {
+    "ticker": "ENEL",
+    "name": "Enel"
+  },
+  {
+    "ticker": "ENGI",
+    "name": "Engie"
+  },
+  {
+    "ticker": "ENI",
+    "name": "Eni"
+  },
+  {
+    "ticker": "ENPH",
+    "name": "Enphase Energy "
+  },
+  {
+    "ticker": "EL",
+    "name": "EssilorLuxottica"
+  },
+  {
+    "ticker": "ETSY",
+    "name": "Etsy"
+  },
+  {
+    "ticker": "EXPE",
+    "name": "Expedia"
+  },
+  {
+    "ticker": "XOM",
+    "name": "Exxon Mobil"
+  },
+  {
+    "ticker": "FDX",
+    "name": "Fedex"
+  },
+  {
+    "ticker": "RACE",
+    "name": "Ferrari"
+  },
+  {
+    "ticker": "FIG",
+    "name": "Figma"
+  },
+  {
+    "ticker": "FSLR",
+    "name": "First Solar "
+  },
+  {
+    "ticker": "GF",
+    "name": "Fischer"
+  },
+  {
+    "ticker": "FHZN",
+    "name": "Flughafen Zürich"
+  },
+  {
+    "ticker": "FL",
+    "name": "Foot Locker"
+  },
+  {
+    "ticker": "F",
+    "name": "Ford"
+  },
+  {
+    "ticker": "FTNT",
+    "name": "Fortinet"
+  },
+  {
+    "ticker": "GPS",
+    "name": "GAP"
+  },
+  {
+    "ticker": "GALD",
+    "name": "Galderma"
+  },
+  {
+    "ticker": "GRMN",
+    "name": "Garmin"
+  },
+  {
+    "ticker": "GEBN",
+    "name": "Geberit"
+  },
+  {
+    "ticker": "GE",
+    "name": "General Electric"
+  },
+  {
+    "ticker": "GIS",
+    "name": "General Mills"
+  },
+  {
+    "ticker": "GM",
+    "name": "General Motors "
+  },
+  {
+    "ticker": "GIVN",
+    "name": "Givaudan"
+  },
+  {
+    "ticker": "GSK",
+    "name": "GlaxoSmithKline"
+  },
+  {
+    "ticker": "GLEN",
+    "name": "Glencore"
+  },
+  {
+    "ticker": "GS",
+    "name": "Goldman Sachs"
+  },
+  {
+    "ticker": "GT",
+    "name": "Goodyear"
+  },
+  {
+    "ticker": "GPRO",
+    "name": "Gopro"
+  },
+  {
+    "ticker": "HPQ",
+    "name": "HP"
+  },
+  {
+    "ticker": "HSBA",
+    "name": "HSBC"
+  },
+  {
+    "ticker": "HOG",
+    "name": "Harley Davidson"
+  },
+  {
+    "ticker": "HAS",
+    "name": "Hasbro"
+  },
+  {
+    "ticker": "HEIO",
+    "name": "Heineken"
+  },
+  {
+    "ticker": "HFG",
+    "name": "Hello Fresh"
+  },
+  {
+    "ticker": "HELN",
+    "name": "Helvetia"
+  },
+  {
+    "ticker": "RMS",
+    "name": "Hermès"
+  },
+  {
+    "ticker": "HOLN",
+    "name": "Holcim"
+  },
+  {
+    "ticker": "HD",
+    "name": "Home Depot "
+  },
+  {
+    "ticker": "HMC",
+    "name": "Honda"
+  },
+  {
+    "ticker": "HON",
+    "name": "Honeywell"
+  },
+  {
+    "ticker": "BOSS",
+    "name": "Hugo Boss"
+  },
+  {
+    "ticker": "IBM",
+    "name": "IBM"
+  },
+  {
+    "ticker": "INGA",
+    "name": "ING"
+  },
+  {
+    "ticker": "IDIA",
+    "name": "Idorsia"
+  },
+  {
+    "ticker": "IMPN",
+    "name": "Implenia"
+  },
+  {
+    "ticker": "ITX",
+    "name": "Inditex (Zara)"
+  },
+  {
+    "ticker": "IFX",
+    "name": "Infineon"
+  },
+  {
+    "ticker": "INTC",
+    "name": "Intel"
+  },
+  {
+    "ticker": "IBKR",
+    "name": "Interactive Brokers"
+  },
+  {
+    "ticker": "ISP",
+    "name": "Intesa Sanpaolo"
+  },
+  {
+    "ticker": "INTU",
+    "name": "Intuit"
+  },
+  {
+    "ticker": "IONQ",
+    "name": "IonQ"
+  },
+  {
+    "ticker": "JPM",
+    "name": "JP Morgan Chase"
+  },
+  {
+    "ticker": "DE",
+    "name": "John Deere"
+  },
+  {
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson"
+  },
+  {
+    "ticker": "BAER",
+    "name": "Julius Baer"
+  },
+  {
+    "ticker": "JFN",
+    "name": "Jungfraubahn"
+  },
+  {
+    "ticker": "JUVE",
+    "name": "Juventus Football club"
+  },
+  {
+    "ticker": "KLAC",
+    "name": "KLA"
+  },
+  {
+    "ticker": "K",
+    "name": "Kellanova"
+  },
+  {
+    "ticker": "KER",
+    "name": "Kering"
+  },
+  {
+    "ticker": "KDP",
+    "name": "Keurig Dr Pepper"
+  },
+  {
+    "ticker": "KMB",
+    "name": "Kimberly-Clark"
+  },
+  {
+    "ticker": "KLAR",
+    "name": "Klarna"
+  },
+  {
+    "ticker": "KHC",
+    "name": "Kraft Heinz"
+  },
+  {
+    "ticker": "KUD",
+    "name": "Kudelski"
+  },
+  {
+    "ticker": "KNIN",
+    "name": "Kühne+Nagel"
+  },
+  {
+    "ticker": "OR",
+    "name": "L'Oreal"
+  },
+  {
+    "ticker": "MC",
+    "name": "LVMH"
+  },
+  {
+    "ticker": "LVS",
+    "name": "Las Vegas Sands"
+  },
+  {
+    "ticker": "FWONK",
+    "name": "Liberty Media"
+  },
+  {
+    "ticker": "LIN",
+    "name": "Linde"
+  },
+  {
+    "ticker": "LISN",
+    "name": "Lindt"
+  },
+  {
+    "ticker": "LLOY",
+    "name": "Lloyds Banking"
+  },
+  {
+    "ticker": "LMT",
+    "name": "Lockheed Martin"
+  },
+  {
+    "ticker": "LOGN",
+    "name": "Logitech"
+  },
+  {
+    "ticker": "LONN",
+    "name": "Lonza"
+  },
+  {
+    "ticker": "LOW",
+    "name": "Lowe's"
+  },
+  {
+    "ticker": "LCID",
+    "name": "Lucid Motors"
+  },
+  {
+    "ticker": "LHA",
+    "name": "Lufthansa"
+  },
+  {
+    "ticker": "LULU",
+    "name": "Lululemon"
+  },
+  {
+    "ticker": "LUKN",
+    "name": "Luzerner Kantonalbank"
+  },
+  {
+    "ticker": "LYFT",
+    "name": "Lyft"
+  },
+  {
+    "ticker": "MGM",
+    "name": "MGM Resorts International"
+  },
+  {
+    "ticker": "MSGE",
+    "name": "Madison Square Garden Sports"
+  },
+  {
+    "ticker": "MANU",
+    "name": "Manchester United"
+  },
+  {
+    "ticker": "MKS",
+    "name": "Marks & Spencer"
+  },
+  {
+    "ticker": "MAR",
+    "name": "Marriott"
+  },
+  {
+    "ticker": "MA",
+    "name": "Mastercard"
+  },
+  {
+    "ticker": "MTCH",
+    "name": "Match Group (Tinder)"
+  },
+  {
+    "ticker": "MCD",
+    "name": "McDonald's"
+  },
+  {
+    "ticker": "DAI",
+    "name": "Mercedes-Benz Group (Daimler)"
+  },
+  {
+    "ticker": "MRK",
+    "name": "Merck"
+  },
+  {
+    "ticker": "FB",
+    "name": "Meta (Facebook)"
+  },
+  {
+    "ticker": "ML",
+    "name": "Michelin"
+  },
+  {
+    "ticker": "MSTR",
+    "name": "MicroStrategy"
+  },
+  {
+    "ticker": "MU",
+    "name": "Micron Technology"
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft"
+  },
+  {
+    "ticker": "MOZN",
+    "name": "MobileZone"
+  },
+  {
+    "ticker": "MRNA",
+    "name": "Moderna"
+  },
+  {
+    "ticker": "MONC",
+    "name": "Moncler"
+  },
+  {
+    "ticker": "MDLZ",
+    "name": "Mondelez"
+  },
+  {
+    "ticker": "MNST",
+    "name": "Monster"
+  },
+  {
+    "ticker": "MCO",
+    "name": "Moody's"
+  },
+  {
+    "ticker": "MS",
+    "name": "Morgan Stanley"
+  },
+  {
+    "ticker": "MUV2",
+    "name": "Munich Re"
+  },
+  {
+    "ticker": "NESN",
+    "name": "Nestlé"
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix "
+  },
+  {
+    "ticker": "NKE",
+    "name": "Nike"
+  },
+  {
+    "ticker": "NCLH",
+    "name": "Norwegian Cruise Line"
+  },
+  {
+    "ticker": "NOVN",
+    "name": "Novartis "
+  },
+  {
+    "ticker": "NVAX",
+    "name": "Novavax"
+  },
+  {
+    "ticker": "NVO",
+    "name": "Novo Nordisk"
+  },
+  {
+    "ticker": "NVDA",
+    "name": "Nvidia"
+  },
+  {
+    "ticker": "ONON",
+    "name": "On"
+  },
+  {
+    "ticker": "ORCL",
+    "name": "Oracle"
+  },
+  {
+    "ticker": "ORA",
+    "name": "Orange"
+  },
+  {
+    "ticker": "PG",
+    "name": "P&G"
+  },
+  {
+    "ticker": "PSPN",
+    "name": "PSP Swiss Property"
+  },
+  {
+    "ticker": "PLTR",
+    "name": "Palantir"
+  },
+  {
+    "ticker": "PANW",
+    "name": "Palo Alto Networks"
+  },
+  {
+    "ticker": "PGHN",
+    "name": "Partners Group"
+  },
+  {
+    "ticker": "PYPL",
+    "name": "Paypal"
+  },
+  {
+    "ticker": "PTON",
+    "name": "Peloton"
+  },
+  {
+    "ticker": "PEPS",
+    "name": "Pepsico "
+  },
+  {
+    "ticker": "PFE",
+    "name": "Pfizer "
+  },
+  {
+    "ticker": "PM",
+    "name": "Philip Morris"
+  },
+  {
+    "ticker": "PHIA",
+    "name": "Philips"
+  },
+  {
+    "ticker": "PINS",
+    "name": "Pinterest"
+  },
+  {
+    "ticker": "PLUG",
+    "name": "Plug Power"
+  },
+  {
+    "ticker": "P911",
+    "name": "Porsche"
+  },
+  {
+    "ticker": "PUM",
+    "name": "Puma"
+  },
+  {
+    "ticker": "QCOM",
+    "name": "Qualcomm"
+  },
+  {
+    "ticker": "RWE",
+    "name": "RWE"
+  },
+  {
+    "ticker": "O",
+    "name": "Realty Income"
+  },
+  {
+    "ticker": "RDDT",
+    "name": "Reddit"
+  },
+  {
+    "ticker": "RNO",
+    "name": "Renault"
+  },
+  {
+    "ticker": "CFR",
+    "name": "Richemont"
+  },
+  {
+    "ticker": "RGTI",
+    "name": "Rigetti Computing"
+  },
+  {
+    "ticker": "RIO",
+    "name": "Rio Tinto"
+  },
+  {
+    "ticker": "RIVN",
+    "name": "Rivian"
+  },
+  {
+    "ticker": "HOOD",
+    "name": "Robinhood"
+  },
+  {
+    "ticker": "RBLX",
+    "name": "Roblox"
+  },
+  {
+    "ticker": "ROG",
+    "name": "Roche"
+  },
+  {
+    "ticker": "ROKU",
+    "name": "Roku"
+  },
+  {
+    "ticker": "RR/",
+    "name": "Rolls-Royce"
+  },
+  {
+    "ticker": "SPGI",
+    "name": "S&P Global"
+  },
+  {
+    "ticker": "SAP",
+    "name": "SAP"
+  },
+  {
+    "ticker": "SGSN",
+    "name": "SGS"
+  },
+  {
+    "ticker": "CRM",
+    "name": "Salesforce"
+  },
+  {
+    "ticker": "SMSN",
+    "name": "Samsung"
+  },
+  {
+    "ticker": "SDZ",
+    "name": "Sandoz"
+  },
+  {
+    "ticker": "SANO",
+    "name": "Sanofi"
+  },
+  {
+    "ticker": "SANT",
+    "name": "Santander"
+  },
+  {
+    "ticker": "SCHN",
+    "name": "Schindler"
+  },
+  {
+    "ticker": "SU",
+    "name": "Schneider Electric"
+  },
+  {
+    "ticker": "NOW",
+    "name": "ServiceNow"
+  },
+  {
+    "ticker": "SHAK",
+    "name": "Shake Shack"
+  },
+  {
+    "ticker": "SHELL",
+    "name": "Shell"
+  },
+  {
+    "ticker": "SHOP",
+    "name": "Shopify"
+  },
+  {
+    "ticker": "SIE",
+    "name": "Siemens "
+  },
+  {
+    "ticker": "ENR",
+    "name": "Siemens Energy "
+  },
+  {
+    "ticker": "SIKA",
+    "name": "Sika"
+  },
+  {
+    "ticker": "SIX2",
+    "name": "Sixt"
+  },
+  {
+    "ticker": "SNAP",
+    "name": "Snapchat"
+  },
+  {
+    "ticker": "SNOW",
+    "name": "Snowflake"
+  },
+  {
+    "ticker": "GLE",
+    "name": "Société Générale"
+  },
+  {
+    "ticker": "SOON",
+    "name": "Sonova"
+  },
+  {
+    "ticker": "SNE",
+    "name": "Sony"
+  },
+  {
+    "ticker": "SPHR",
+    "name": "Sphere Entertainment"
+  },
+  {
+    "ticker": "SPOT",
+    "name": "Spotify"
+  },
+  {
+    "ticker": "SGKN",
+    "name": "St. Galler Kantonalbank"
+  },
+  {
+    "ticker": "SRAIL",
+    "name": "Stadler Rail"
+  },
+  {
+    "ticker": "SBUX",
+    "name": "Starbucks"
+  },
+  {
+    "ticker": "STLA",
+    "name": "Stellantis"
+  },
+  {
+    "ticker": "STMN",
+    "name": "Straumann"
+  },
+  {
+    "ticker": "SUN",
+    "name": "Sulzer"
+  },
+  {
+    "ticker": "SUNN",
+    "name": "Sunrise"
+  },
+  {
+    "ticker": "SMCI",
+    "name": "Super Micro Computer"
+  },
+  {
+    "ticker": "UHR",
+    "name": "Swatch Group"
+  },
+  {
+    "ticker": "SLHN",
+    "name": "Swiss Life"
+  },
+  {
+    "ticker": "SPSN",
+    "name": "Swiss Prime Site"
+  },
+  {
+    "ticker": "SREN",
+    "name": "Swiss Re"
+  },
+  {
+    "ticker": "SCMN",
+    "name": "Swisscom "
+  },
+  {
+    "ticker": "SQN",
+    "name": "Swissquote"
+  },
+  {
+    "ticker": "TMUS",
+    "name": "T-Mobile"
+  },
+  {
+    "ticker": "TKO",
+    "name": "TKO Group"
+  },
+  {
+    "ticker": "TSM",
+    "name": "TSMC"
+  },
+  {
+    "ticker": "TTWO",
+    "name": "Take Two"
+  },
+  {
+    "ticker": "TGT",
+    "name": "Target"
+  },
+  {
+    "ticker": "TMV",
+    "name": "TeamViewer"
+  },
+  {
+    "ticker": "TEMN",
+    "name": "Temenos"
+  },
+  {
+    "ticker": "TSCO",
+    "name": "Tesco"
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla "
+  },
+  {
+    "ticker": "TXN",
+    "name": "Texas instruments"
+  },
+  {
+    "ticker": "TMO",
+    "name": "Thermo Fisher"
+  },
+  {
+    "ticker": "TKA",
+    "name": "Thyssenkrupp"
+  },
+  {
+    "ticker": "TTE",
+    "name": "Totalenergies"
+  },
+  {
+    "ticker": "TM",
+    "name": "Toyota"
+  },
+  {
+    "ticker": "TUI1",
+    "name": "Tui"
+  },
+  {
+    "ticker": "UBSG",
+    "name": "UBS"
+  },
+  {
+    "ticker": "UPS",
+    "name": "UPS"
+  },
+  {
+    "ticker": "UBER",
+    "name": "Uber"
+  },
+  {
+    "ticker": "UBI",
+    "name": "Ubisoft"
+  },
+  {
+    "ticker": "UAA",
+    "name": "Under Armour"
+  },
+  {
+    "ticker": "ULVR",
+    "name": "Unilever"
+  },
+  {
+    "ticker": "VACN",
+    "name": "VAT Group"
+  },
+  {
+    "ticker": "VALE",
+    "name": "Vale"
+  },
+  {
+    "ticker": "VATN",
+    "name": "Valiant"
+  },
+  {
+    "ticker": "VIE",
+    "name": "Veolia"
+  },
+  {
+    "ticker": "VZ",
+    "name": "Verizon"
+  },
+  {
+    "ticker": "VWSB",
+    "name": "Vestas Wind Systems"
+  },
+  {
+    "ticker": "SPCE",
+    "name": "Virgin Galactic"
+  },
+  {
+    "ticker": "V",
+    "name": "Visa"
+  },
+  {
+    "ticker": "VST",
+    "name": "Vistra"
+  },
+  {
+    "ticker": "VIV",
+    "name": "Vivendi"
+  },
+  {
+    "ticker": "VOD",
+    "name": "Vodafone"
+  },
+  {
+    "ticker": "VOW",
+    "name": "Volkswagen"
+  },
+  {
+    "ticker": "VONN",
+    "name": "Vontobel"
+  },
+  {
+    "ticker": "WW",
+    "name": "WW (Weight Watchers)"
+  },
+  {
+    "ticker": "WMT",
+    "name": "Walmart "
+  },
+  {
+    "ticker": "DIS",
+    "name": "Walt Disney"
+  },
+  {
+    "ticker": "WBD",
+    "name": "Warner Bros Discovery"
+  },
+  {
+    "ticker": "WISE",
+    "name": "Wise"
+  },
+  {
+    "ticker": "WDAY",
+    "name": "Workday"
+  },
+  {
+    "ticker": "YUM",
+    "name": "Yum! Brands "
+  },
+  {
+    "ticker": "ZAL",
+    "name": "Zalando"
+  },
+  {
+    "ticker": "ZM",
+    "name": "Zoom"
+  },
+  {
+    "ticker": "ZS",
+    "name": "Zscaler"
+  },
+  {
+    "ticker": "ZURN",
+    "name": "Zurich Insurance"
+  },
+  {
+    "ticker": "IRBT",
+    "name": "iRobot"
+  }
+]
