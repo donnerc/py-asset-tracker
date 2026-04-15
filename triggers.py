@@ -68,6 +68,36 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
     ax.plot(x_values, candles["SMA200"], color="green", linewidth=1.8, label="MM200")
     ax.plot(x_values, candles["SMA50"], color="orange", linewidth=1.8, label="MM50")
 
+    sma200_last = candles["SMA200"].dropna()
+    if not sma200_last.empty:
+        sma200_value = float(sma200_last.iloc[-1])
+        ax.text(
+            len(candles) - 1 + 0.6,
+            sma200_value,
+            f"{sma200_value:.2f}",
+            color="green",
+            fontsize=9,
+            va="center",
+            ha="left",
+            fontweight="bold",
+        )
+
+    sma50_last = candles["SMA50"].dropna()
+    if not sma50_last.empty:
+        sma50_value = float(sma50_last.iloc[-1])
+        ax.text(
+            len(candles) - 1 + 0.6,
+            sma50_value,
+            f"{sma50_value:.2f}",
+            color="orange",
+            fontsize=9,
+            va="center",
+            ha="left",
+            fontweight="bold",
+        )
+
+    ax.set_xlim(-0.5, len(candles) - 1 + 3)
+
     lowest_point = float(candles["Low"].min())
     highest_point = float(candles["High"].max())
     first_close = float(candles["Close"].iloc[0])
