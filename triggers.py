@@ -19,10 +19,25 @@ def _get_history_period(interval):
     return "730d"
 
 
+def _get_asset_display_name(ticker, ticker_symbol):
+    try:
+        info = ticker.info or {}
+        return (
+            info.get("longName")
+            or info.get("shortName")
+            or info.get("displayName")
+            or ticker_symbol
+        )
+    except Exception:
+        return ticker_symbol
+
+
 def build_price_chart_png(ticker_symbol, interval, candles_count=80):
-    """Builds a PNG chart for the last N candles with MM200, MM50 and performance from the lowest point."""
+    """Builds a PNG chart for the last N candles with MM200, MM50 and directional performance."""
     history_period = _get_history_period(interval)
-    data = yf.Ticker(ticker_symbol).history(period=history_period, interval=interval)
+    ticker = yf.Ticker(ticker_symbol)
+    asset_name = _get_asset_display_name(ticker, ticker_symbol)
+    data = ticker.history(period=history_period, interval=interval)
     if data.empty:
         print(f"Impossible de generer le graphique: aucune donnee {interval}.")
         return None
@@ -53,14 +68,30 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
     ax.plot(x_values, candles["SMA50"], color="orange", linewidth=1.8, label="MM50")
 
     lowest_point = float(candles["Low"].min())
+    highest_point = float(candles["High"].max())
+    first_close = float(candles["Close"].iloc[0])
     latest_close = float(candles["Close"].iloc[-1])
-    pct_from_low = ((latest_close - lowest_point) / lowest_point) * 100 if lowest_point > 0 else 0.0
 
-    ax.axhline(lowest_point, color="#1f77b4", linestyle="--", linewidth=1, alpha=0.35)
+    if latest_close >= first_close:
+        reference_price = lowest_point
+        reference_text = "Depuis le plus bas"
+        reference_color = "#1f77b4"
+    else:
+        reference_price = highest_point
+        reference_text = "Depuis le plus haut"
+        reference_color = "#d62728"
+
+    performance_pct = (
+        ((latest_close - reference_price) / reference_price) * 100
+        if reference_price > 0
+        else 0.0
+    )
+
+    ax.axhline(reference_price, color=reference_color, linestyle="--", linewidth=1, alpha=0.35)
     ax.text(
         0.01,
-        0.98,
-        f"Depuis le plus bas: {pct_from_low:+.2f}%",
+        0.10,
+        f"{reference_text}: {performance_pct:+.2f}%",
         transform=ax.transAxes,
         ha="left",
         va="top",
@@ -76,7 +107,7 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
     ax.set_xticks(tick_positions)
     ax.set_xticklabels([labels[i] for i in tick_positions], rotation=30, ha="right")
-    ax.set_title(f"{ticker_symbol} - {candles_count} dernières bougies ({interval})")
+    ax.set_title(f"{asset_name} ({ticker_symbol}) - {candles_count} dernières bougies ({interval})")
     ax.set_ylabel("Prix")
     ax.grid(alpha=0.25)
     ax.legend(loc="upper left")
@@ -91,7 +122,7 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
 
 def send_trigger_charts(ticker_symbol):
-    for interval in ("2h", "5m", "1m"):
+    for interval in ("1h", "5m", "1m"):
         chart_path = build_price_chart_png(ticker_symbol, interval=interval, candles_count=100)
         if chart_path:
             send_telegram_photo(chart_path, f"{ticker_symbol} - 100 bougies ({interval})")
