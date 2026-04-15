@@ -11,13 +11,25 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+def _get_history_period(interval):
+    if interval == "1m":
+        return "7d"
+    if interval in {"2m", "5m", "15m", "30m", "60m", "90m", "1h"}:
+        return "60d"
+    return "730d"
+
+
 def build_price_chart_png(ticker_symbol, interval, candles_count=80):
-    """Builds a PNG chart for the last N candles for the requested interval. Add
-    SMA200 and SMA50 if possible."""
-    data = yf.Ticker(ticker_symbol).history(period="5d", interval=interval)
+    """Builds a PNG chart for the last N candles with MM200, MM50 and performance from the lowest point."""
+    history_period = _get_history_period(interval)
+    data = yf.Ticker(ticker_symbol).history(period=history_period, interval=interval)
     if data.empty:
         print(f"Impossible de generer le graphique: aucune donnee {interval}.")
         return None
+
+    data = data.copy()
+    data["SMA200"] = data["Close"].rolling(window=200, min_periods=1).mean()
+    data["SMA50"] = data["Close"].rolling(window=50, min_periods=1).mean()
 
     candles = data.tail(candles_count)
     if candles.empty:
@@ -36,6 +48,26 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
         ax.vlines(i, low_price, high_price, color=color, linewidth=1.2)
         ax.vlines(i, open_price, close_price, color=color, linewidth=6)
 
+    x_values = list(range(len(candles)))
+    ax.plot(x_values, candles["SMA200"], color="green", linewidth=1.8, label="MM200")
+    ax.plot(x_values, candles["SMA50"], color="orange", linewidth=1.8, label="MM50")
+
+    lowest_point = float(candles["Low"].min())
+    latest_close = float(candles["Close"].iloc[-1])
+    pct_from_low = ((latest_close - lowest_point) / lowest_point) * 100 if lowest_point > 0 else 0.0
+
+    ax.axhline(lowest_point, color="#1f77b4", linestyle="--", linewidth=1, alpha=0.35)
+    ax.text(
+        0.01,
+        0.98,
+        f"Depuis le plus bas: {pct_from_low:+.2f}%",
+        transform=ax.transAxes,
+        ha="left",
+        va="top",
+        fontsize=9,
+        bbox={"boxstyle": "round,pad=0.25", "facecolor": "white", "alpha": 0.75, "edgecolor": "lightgray"},
+    )
+
     labels = [ts.strftime("%d/%m %H:%M") for ts in candles.index]
     tick_step = max(1, len(labels) // 8)
     tick_positions = list(range(0, len(labels), tick_step))
@@ -45,8 +77,9 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
     ax.set_xticks(tick_positions)
     ax.set_xticklabels([labels[i] for i in tick_positions], rotation=30, ha="right")
     ax.set_title(f"{ticker_symbol} - {candles_count} dernières bougies ({interval})")
-    ax.set_ylabel("Prix" )
+    ax.set_ylabel("Prix")
     ax.grid(alpha=0.25)
+    ax.legend(loc="upper left")
     fig.tight_layout()
 
     with tempfile.NamedTemporaryFile(prefix=f"{ticker_symbol}_", suffix=".png", delete=False) as tmp_file:

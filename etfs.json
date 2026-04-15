@@ -1,0 +1,250 @@
+[
+  {
+    "ticker": "SAUS.AUD",
+    "name": "Australia (iShares MSCI Australia)"
+  },
+  {
+    "ticker": "BTCW",
+    "name": "Bitcoin (WisdomTree Physical Bitcoin)"
+  },
+  {
+    "ticker": "XMBR",
+    "name": "Brazil (Xtrackers SICAV-MSCI Brazil)"
+  },
+  {
+    "ticker": "CANCDA.CAD",
+    "name": "Canada (UBS SICAV-MSCI Canada)"
+  },
+  {
+    "ticker": "XCHA",
+    "name": "China (Xtrackers SICAV CSI300 Swap 1C)"
+  },
+  {
+    "ticker": "WCRP",
+    "name": "Crypto Top 20 (WisdomTree CoinDesk 20)"
+  },
+  {
+    "ticker": "IWDC",
+    "name": "Developed World (iShares MSCI World CHF Hedged)"
+  },
+  {
+    "ticker": "ESGW.USD",
+    "name": "Developed World ESG (Inv. MSCI World Univ. Screen)"
+  },
+  {
+    "ticker": "XMME",
+    "name": "Emerging Markets (Xtrackers MSCI EM)"
+  },
+  {
+    "ticker": "CSEMAS.USD",
+    "name": "Emerging Markets Asia (iShares MSCI EM Asia)"
+  },
+  {
+    "ticker": "VDEA",
+    "name": "Emerging Markets Goverment Bond (Vanguard USD EM)"
+  },
+  {
+    "ticker": "AMEL",
+    "name": "Emerging Markets Latin America (Amundi EM Latam)"
+  },
+  {
+    "ticker": "ETHW",
+    "name": "Ethereum (WisdomTree Physical Ethereum)"
+  },
+  {
+    "ticker": "MSE",
+    "name": "Europe (Amundi Euro Stoxx 50 SICAV)"
+  },
+  {
+    "ticker": "IEAC",
+    "name": "Europe Corporate Bond (iShares Core EUR Corp Bond)"
+  },
+  {
+    "ticker": "XDUE",
+    "name": "Europe EMU (Xtrackers SICAV-MSCI EMU)"
+  },
+  {
+    "ticker": "VGEA",
+    "name": "Europe Government Bond (Vanguard EUR Eurozone)"
+  },
+  {
+    "ticker": "SPYW",
+    "name": "Europe High Dividend (SPDR S&P Eur Dividend Arist)"
+  },
+  {
+    "ticker": "DBXD",
+    "name": "Germany (Xtrackers SICAV Dax 1C)"
+  },
+  {
+    "ticker": "ZGLD",
+    "name": "Gold (Swisscanto Gold)"
+  },
+  {
+    "ticker": "CSMIB",
+    "name": "Italy (iShares FTSE MiB Italy)"
+  },
+  {
+    "ticker": "XNJP.JPY",
+    "name": "Japan (Xtrackers SICAV Nikkei 225)"
+  },
+  {
+    "ticker": "EQCH",
+    "name": "Nasdaq 100 (Invesco EQQQ Nasdaq 100 Acc)"
+  },
+  {
+    "ticker": "EQQQ.USD",
+    "name": "Nasdaq 100 (Invesco EQQQ Nasdaq 100 Dist)"
+  },
+  {
+    "ticker": "XDN0",
+    "name": "Nordic (Xtrackers MSCI Nordic)"
+  },
+  {
+    "ticker": "CSPXJ.USD",
+    "name": "Pacific (iShares MSCI Pacific Ex Japan)"
+  },
+  {
+    "ticker": "VUSD",
+    "name": "S&P 500 (Vanguard S&P 500)"
+  },
+  {
+    "ticker": "XDPU",
+    "name": "S&P 500 (Xtrackers S&P 500)"
+  },
+  {
+    "ticker": "ZSIL",
+    "name": "Silver (Swisscanto Silver)"
+  },
+  {
+    "ticker": "XESP",
+    "name": "Spain (Xtrackers SICAV Spain)"
+  },
+  {
+    "ticker": "CHCORP",
+    "name": "Switzerland Coroporate Bond (iShares Corp Bond)"
+  },
+  {
+    "ticker": "SWCSS",
+    "name": "Switzerland ESG (Swisscanto ESGen SDG Index E. CH)"
+  },
+  {
+    "ticker": "CSBGC0",
+    "name": "Switzerland Government Bond (iShares Gov B. 7-15)"
+  },
+  {
+    "ticker": "CSBGC3",
+    "name": "Switzerland Government Bond (iShares Gov Bond 1-3)"
+  },
+  {
+    "ticker": "CSBGC7",
+    "name": "Switzerland Government Bond (iShares Gov Bond 3-7)"
+  },
+  {
+    "ticker": "CHDVD",
+    "name": "Switzerland High Dividend (iShares Swiss Dividend)"
+  },
+  {
+    "ticker": "SRECHA",
+    "name": "Switzerland Real Estate (UBS Sxi Real Estate)"
+  },
+  {
+    "ticker": "CSSMI",
+    "name": "Switzerland SMI (iShares SMI)"
+  },
+  {
+    "ticker": "SMMCHA",
+    "name": "Switzerland SMIM (UBS SMIM)"
+  },
+  {
+    "ticker": "CHSPI",
+    "name": "Switzerland SPI (iShares Core SPI)"
+  },
+  {
+    "ticker": "VUKE",
+    "name": "UK (Vanguard FTSE 100)"
+  },
+  {
+    "ticker": "XDGU",
+    "name": "USA Corporate Bond (Xtrackers USD Corp Bond)"
+  },
+  {
+    "ticker": "ESGU.USD",
+    "name": "USA ESG (Invesco MSCI USA Universal Screened)"
+  },
+  {
+    "ticker": "XLFS.USD",
+    "name": "USA Financials (Invesco S&P US Financials)"
+  },
+  {
+    "ticker": "SXLV.USD",
+    "name": "USA Health Care (SPDR S&P US Health Care)"
+  },
+  {
+    "ticker": "UDVD",
+    "name": "USA High Dividend (SPDR S&P US Dividend Arist)"
+  },
+  {
+    "ticker": "XLBS.USD",
+    "name": "USA Materials (Invesco S&P US Materials)"
+  },
+  {
+    "ticker": "SXLK.USD",
+    "name": "USA Tech (SPDR S&P US Technology)"
+  },
+  {
+    "ticker": "VDTA",
+    "name": "USA Treasury Bond (Vanguard USD Treasury Bond)"
+  },
+  {
+    "ticker": "FWCA",
+    "name": "World (Invesco FTSE All-World PfHedged)"
+  },
+  {
+    "ticker": "VWRA",
+    "name": "World (Vanguard FTSE All-World Acc)"
+  },
+  {
+    "ticker": "VWRD",
+    "name": "World (Vanguard FTSE All-World Dis)"
+  },
+  {
+    "ticker": "VWRL",
+    "name": "World (Vanguard FTSE All-World Dis)"
+  },
+  {
+    "ticker": "VAGX",
+    "name": "World Aggregate Bond (Vanguard Global Agg. Bond)"
+  },
+  {
+    "ticker": "SWCSW",
+    "name": "World ESG (Swisscanto ESGen SDG Index E. World)"
+  },
+  {
+    "ticker": "V3AA",
+    "name": "World ESG (Vanguard ESG Global All Cap)"
+  },
+  {
+    "ticker": "VHYA",
+    "name": "World High Dividend (Vang FTSE All-World Div Acc)"
+  },
+  {
+    "ticker": "VHYL",
+    "name": "World High Dividend (Vang FTSE All-World Div Dis)"
+  },
+  {
+    "ticker": "INFR.USD",
+    "name": "World Infrastructure (iShares Global Infra.)"
+  },
+  {
+    "ticker": "MVSH",
+    "name": "World Minimum Volatility (iSh MSCI World Min Vol)"
+  },
+  {
+    "ticker": "IWMO",
+    "name": "World Momententum (iSh MSCI World Momentum Factor)"
+  },
+  {
+    "ticker": "WOSC",
+    "name": "World Small Cap (SPDR MSCI World Small Cap)"
+  }
+]
