@@ -105,11 +105,11 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
     if latest_close >= first_close:
         reference_price = lowest_point
-        reference_text = "Depuis le plus bas"
+        reference_text = "From low"
         reference_color = "#1f77b4"
     else:
         reference_price = highest_point
-        reference_text = "Depuis le plus haut"
+        reference_text = "From high"
         reference_color = "#d62728"
 
     performance_pct = (
@@ -121,7 +121,7 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
     ax.axhline(reference_price, color=reference_color, linestyle="--", linewidth=1, alpha=0.35)
     ax.text(
         0.01,
-        0.10,
+        0.80,
         f"{reference_text}: {performance_pct:+.2f}%",
         transform=ax.transAxes,
         ha="left",
