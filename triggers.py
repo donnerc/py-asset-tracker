@@ -42,9 +42,10 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
         print(f"Impossible de generer le graphique: aucune donnee {interval}.")
         return None
 
-    data = data.copy()
-    data["SMA200"] = data["Close"].rolling(window=200, min_periods=1).mean()
-    data["SMA50"] = data["Close"].rolling(window=50, min_periods=1).mean()
+    required_history = max(candles_count + 200, 250)
+    data = data.tail(required_history).copy()
+    data["SMA200"] = data["Close"].rolling(window=200, min_periods=200).mean()
+    data["SMA50"] = data["Close"].rolling(window=50, min_periods=50).mean()
 
     candles = data.tail(candles_count)
     if candles.empty:
@@ -122,7 +123,7 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
 
 def send_trigger_charts(ticker_symbol):
-    for interval in ("1h", "5m", "1m"):
+    for interval in ("4h", "1h", "5m", "1m", "1d"):
         chart_path = build_price_chart_png(ticker_symbol, interval=interval, candles_count=100)
         if chart_path:
             send_telegram_photo(chart_path, f"{ticker_symbol} - 100 bougies ({interval})")
