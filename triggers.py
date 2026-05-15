@@ -4,9 +4,10 @@ import time
 import requests
 
 import yfinance as yf
-from dotenv import load_dotenv
 
 from charts import build_price_chart_png
+
+from dotenv import load_dotenv
 
 load_dotenv()
 
@@ -105,7 +106,7 @@ def monitor_price(ticker_symbol, low_price, high_price):
                 alert_sent = False
                 
         
-        # Attendre 20 secondes avant la prochaine vérification
+        # Attendre avant la prochaine vérification
         time.sleep(20)
 
 

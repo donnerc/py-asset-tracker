@@ -2,15 +2,17 @@ import threading
 import time
 
 from triggers import monitor_price
-from watchlist import commodities, cryptos, etf_sw, tracked_eu, tracked_stocks_us, tracked_sw
+from watchlist import commodities, cryptos, etf_sw, tracked_eu, tracked_stocks_us, tracked_sw, currencies, etf_us
 
 WATCHLIST_GROUPS = {
     "tracked_stocks_us": tracked_stocks_us,
     "tracked_eu": tracked_eu,
     "tracked_sw": tracked_sw,
     "etf_sw": etf_sw,
+    "etf_us": etf_us,
     "commodities": commodities,
     "cryptos": cryptos,
+    "currencies": currencies,
 }
 
 

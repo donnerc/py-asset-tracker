@@ -25,8 +25,15 @@ def _get_asset_display_name(ticker, ticker_symbol):
         return ticker_symbol
 
 
-def build_price_chart_png(ticker_symbol, interval, candles_count=80):
+def build_price_chart_png(ticker_symbol, interval, candles_count=80, handle=None):
     """Builds a PNG chart for the last N candles with MM200, MM50 and directional performance."""
+    
+    def default_handle(data):
+        pass
+    
+    if handle is None:
+        handle = default_handle
+    
     history_period = _get_history_period(interval)
     ticker = yf.Ticker(ticker_symbol)
     asset_name = _get_asset_display_name(ticker, ticker_symbol)
@@ -45,7 +52,9 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
         print("Impossible de generer le graphique: pas assez de points.")
         return None
 
-    fig, ax = plt.subplots(figsize=(10, 4.8))
+    fig, (ax, ax_vol) = plt.subplots(
+        2, 1, figsize=(10, 5.8), gridspec_kw={"height_ratios": [3, 1]}, sharex=True
+    )
 
     for i, (_, row) in enumerate(candles.iterrows()):
         open_price = float(row["Open"])
@@ -56,6 +65,11 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
         ax.vlines(i, low_price, high_price, color=color, linewidth=1.2)
         ax.vlines(i, open_price, close_price, color=color, linewidth=6)
+
+    # Volume bars
+    for i, (_, row) in enumerate(candles.iterrows()):
+        color = "#2ca02c" if float(row["Close"]) >= float(row["Open"]) else "#d62728"
+        ax_vol.bar(i, float(row["Volume"]), color=color, width=0.8, alpha=0.7)
 
     x_values = list(range(len(candles)))
     ax.plot(x_values, candles["SMA200"], color="green", linewidth=1.8, label="MM200")
@@ -115,7 +129,7 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
     ax.text(
         0.01,
         0.80,
-        f"{reference_text}: {performance_pct:+.2f}%",
+        f"{reference_text}: {performance_pct:+.2f}%\nActuel: {latest_close:.2f}  Min: {lowest_point:.2f}  Max: {highest_point:.2f}",
         transform=ax.transAxes,
         ha="left",
         va="top",
@@ -123,18 +137,27 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
         bbox={"boxstyle": "round,pad=0.25", "facecolor": "white", "alpha": 0.75, "edgecolor": "lightgray"},
     )
 
-    labels = [ts.strftime("%d/%m %H:%M") for ts in candles.index]
-    tick_step = max(1, len(labels) // 8)
+    daily_intervals = {"1d", "5d", "1wk", "1mo", "3mo"}
+    date_fmt = "%d/%m/%Y" if interval in daily_intervals else "%d/%m %H:%M"
+    labels = [ts.strftime(date_fmt) for ts in candles.index]
+    tick_step = max(1, len(labels) // 14)
     tick_positions = list(range(0, len(labels), tick_step))
     if tick_positions[-1] != len(labels) - 1:
         tick_positions.append(len(labels) - 1)
 
-    ax.set_xticks(tick_positions)
-    ax.set_xticklabels([labels[i] for i in tick_positions], rotation=30, ha="right")
+    ax_vol.set_xticks(tick_positions)
+    ax_vol.set_xticklabels([labels[i] for i in tick_positions], rotation=45, ha="right")
     ax.set_title(f"{asset_name} ({ticker_symbol}) - {candles_count} dernières bougies ({interval})")
     ax.set_ylabel("Prix")
     ax.grid(alpha=0.25)
     ax.legend(loc="upper left")
+
+    ax_vol.set_ylabel("Volume", fontsize=8)
+    ax_vol.yaxis.set_major_formatter(
+        plt.FuncFormatter(lambda x, _: f"{x/1e6:.1f}M" if x >= 1e6 else f"{x/1e3:.0f}K" if x >= 1e3 else str(int(x)))
+    )
+    ax_vol.grid(alpha=0.25)
+
     fig.tight_layout()
 
     with tempfile.NamedTemporaryFile(prefix=f"{ticker_symbol}_", suffix=".png", delete=False) as tmp_file:
@@ -142,5 +165,20 @@ def build_price_chart_png(ticker_symbol, interval, candles_count=80):
 
     fig.savefig(output_path, dpi=120)
     plt.close(fig)
+    
+    charts_infos = {
+        "ticker": ticker_symbol,
+        "asset_name": asset_name,
+        "interval": interval,
+        "candles_count": candles_count,
+        "latest_close": latest_close,
+        "performance_pct": performance_pct,
+        "mm200": sma200_value if not sma200_last.empty else None,
+        "mm50": sma50_value if not sma50_last.empty else None,
+        "chart_path": output_path,
+    }
+    
+    handle(charts_infos)
+    
     return output_path
 
